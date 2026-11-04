@@ -11,6 +11,7 @@ Uma linha por sessão. Curto basta.
 | Data | Aula | Duração | XP | Dificuldade | Observações |
 | --- | --- | --- | --- | --- | --- |
 | 04/11/2026 | 01 · Os sons do francês | 30 min | 10 + 5 💯 | 2 🙂 | Fez todos os exercícios, achou ótima. Mini-quiz 7/7 (100%) → +5 XP. 👄 Biquinho Francês ainda não: ver [pontos a treinar](#-pontos-de-pronúncia-a-treinar). |
+| 04/11/2026 | 02 · Cumprimentos e apresentar-se | 30 min | 10 + 5 💯 | 2 🙂 | Ex. A (tu/vous) 4/4. Ex. B: escreveu *j'habite à Portugal* (certo: *au Portugal*) e corrigiu *bon après-midi* × *bonsoir*. Falou *enchantée*. Femininos certos (enchantée, désolée, fatiguée, mariée, invitée, née); na frase final trocou *mariée* por *brésilienne*. Mini-quiz 100% → +5 XP. Ver [pontos a revisar](#-pontos-a-revisar). |
 
 Exemplo de linha:
 
@@ -27,7 +28,7 @@ Fez? Troque ⬜ por ✅.
 | Aula | Concluída | +1 dia | +3 dias | +7 dias | +14 dias |
 | --- | --- | --- | --- | --- | --- |
 | 01 | 04/11 | ⬜ 05/11 | ⬜ 07/11 | ⬜ 11/11 | ⬜ 18/11 |
-| 02 | | ⬜ | ⬜ | ⬜ | ⬜ |
+| 02 | 04/11 | ⬜ 05/11 | ⬜ 07/11 | ⬜ 11/11 | ⬜ 18/11 |
 | 03 | | ⬜ | ⬜ | ⬜ | ⬜ |
 | 04 | | ⬜ | ⬜ | ⬜ | ⬜ |
 | 05 | | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -63,6 +64,17 @@ Anotados na Aula 01 (04/11/2026). A conquista 👄 **Biquinho Francês** ainda n
 | **R saindo como H** | rouge, merci, rue | O R francês raspa na garganta (como gargarejo leve), não é só um sopro de "h". | ⬜ |
 
 💡 Treino rápido no aquecimento: tocar os áudios *vous, vu, roue, rue, rouge* da [Aula 01](aulas/aula-01.md) e repetir em voz alta. Quando sair sem pensar, marque ✅ aqui e em [Sons dominados](#-sons-dominados).
+
+## 📌 Pontos a revisar
+
+Anotados na Aula 02 (04/11/2026). Entram no aquecimento das revisões espaçadas.
+
+| Ponto | Regra rápida | Status |
+| --- | --- | --- |
+| **à / au / en com países** | Cidade → **à** (à Lisbonne). País masculino → **au** (au Portugal, au Brésil). País feminino → **en** (en France). Plural → **aux** (aux États-Unis). | ⬜ |
+| **bon après-midi × bonsoir** | *Bon après-midi !* = "boa tarde" ao **se despedir** à tarde. *Bonsoir !* = "boa noite" ao **chegar**, à noite. De tarde, ao chegar, ainda é *Bonjour !* | ⬜ |
+
+💡 A Aula 06 (preposições) volta a ver países. Bom momento para marcar ✅.
 
 ## 🏁 Checkpoints
 

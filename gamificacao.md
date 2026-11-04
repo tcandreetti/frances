@@ -108,10 +108,12 @@ Uma linha por sessão (ou por semana, no domingo).
 | --- | --- | --- | --- | --- |
 | 04/11/2026 | Aula 01 · Os sons do francês (completa, 30 min) | 10 | 10 | 👣 Premier Pas |
 | 04/11/2026 | 💯 Mini-quiz da Aula 01 com 100% | 5 | 15 | — (💯 Cabeça Fresca: 1/10) |
+| 04/11/2026 | Aula 02 · Cumprimentos e apresentar-se (completa, 30 min) | 10 | 25 | — (👋 Bonjour ! pendente: apresentar-se em voz alta, sem ler) |
+| 04/11/2026 | 💯 Mini-quiz da Aula 02 com 100% | 5 | 30 | — (💯 Cabeça Fresca: 2/10) |
 
 ## 🏅 Recordes
 
 | Recorde | Valor | Data |
 | --- | --- | --- |
 | Melhor streak | 1 dia | 04/11/2026 |
-| Mais XP numa semana | 15 | semana de 02/11/2026 |
+| Mais XP numa semana | 30 | semana de 02/11/2026 |

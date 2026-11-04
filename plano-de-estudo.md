@@ -27,7 +27,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 02 · Cumprimentos e apresentar-se
 
-- [ ] Concluída · 10 XP
+- [x] Concluída · 10 XP · ✅ 04/11/2026 (+5 💯 mini-quiz)
 - 🎯 **Objetivo:** cumprimentar, escolher entre **tu** e **vous** e se apresentar em 4 frases.
 - ⏱️ **5 min:** sons da aula 01.
 - ⏱️ **20 min:** bonjour, salut, au revoir · merci, s'il vous plaît · ça va ? · je m'appelle… · diálogo no café.
@@ -36,7 +36,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 03 · Artigos e gênero
 
-- [ ] Concluída · 10 XP
+- [ ] Concluída · 10 XP · 👉 **próxima aula**
 - 🎯 **Objetivo:** usar le, la, l', les, un, une, des e conhecer os gêneros "trocados".
 - ⏱️ **5 min:** apresentação sem olhar.
 - ⏱️ **20 min:** artigos · plural que não se ouve · la mer, le voyage · pistas (-tion, -age) · Lisboa em francês.
