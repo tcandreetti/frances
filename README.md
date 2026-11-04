@@ -22,7 +22,7 @@ Pouco todo dia vence muito de vez em quando. 🌱
 
 ```mermaid
 flowchart LR
-  EU(["📍 Você está aqui<br/>0 XP · Nível 1<br/>Aula 01"])
+  EU(["📍 Você está aqui<br/>10 XP · Nível 1<br/>Aula 02"])
 
   subgraph FR["🇫🇷 Francês"]
     direction LR
@@ -41,13 +41,13 @@ flowchart LR
 
 ## 📊 Painel
 
-Atualizado em: 2026-11-04 (dia 0: tudo pronto para começar 🎉).
+Atualizado em: 2026-11-04 (dia 1: Aula 01 concluída 🎉).
 
 | Assunto | Nível atual | Aula atual | Progresso | XP | Streak |
 | --- | --- | --- | --- | --- | --- |
-| 🇫🇷 [Francês](roadmap.md) | N1 · Primeiros passos | [Aula 01](aulas/aula-01.md) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% (0/110) | 0 | 0 |
+| 🇫🇷 [Francês](roadmap.md) | N1 · Primeiros passos | [Aula 02](aulas/aula-02.md) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1% (1/110) | 10 | 1 |
 
-**Total:** 0 XP · Título: 🥐 Croissant Curioso (próximo: ☕ Freguesa do Café aos 100 XP) · Streak: 0 dias · Coringas: 🃏🃏
+**Total:** 10 XP · Título: 🥐 Croissant Curioso (próximo: ☕ Freguesa do Café aos 100 XP, faltam 90) · Streak: 1 dia · Coringas: 🃏🃏
 
 - **Progresso** = aulas feitas ÷ 110 aulas do curso inteiro.
 - Cada ⬛ = 10%.
@@ -57,7 +57,7 @@ Atualizado em: 2026-11-04 (dia 0: tudo pronto para começar 🎉).
 
 | Aula | Tema | Status |
 | --- | --- | --- |
-| [01](aulas/aula-01.md) | 👄 Os sons do francês | ⬜ |
+| [01](aulas/aula-01.md) | 👄 Os sons do francês | ✅ |
 | [02](aulas/aula-02.md) | 👋 Cumprimentos e apresentar-se | ⬜ |
 | [03](aulas/aula-03.md) | 📦 Artigos e gênero | ⬜ |
 | [04](aulas/aula-04.md) | 🧱 être e avoir | ⬜ |

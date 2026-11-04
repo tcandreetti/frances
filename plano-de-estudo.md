@@ -18,7 +18,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 01 · Os sons do francês
 
-- [ ] Concluída · 10 XP
+- [x] Concluída · 10 XP · ✅ 04/11/2026
 - 🎯 **Objetivo:** entender por que o francês "escreve muito e fala pouco" e pronunciar os 6 sons-chave.
 - ⏱️ **5 min:** palavras francesas que já usamos no Brasil (abajur, buquê, croissant…).
 - ⏱️ **20 min:** letras mudas · **u × ou** · combinações (oi, eau, ch) · nasais · R · ligação.

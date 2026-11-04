@@ -10,7 +10,7 @@ Uma linha por sessão. Curto basta.
 
 | Data | Aula | Duração | XP | Dificuldade | Observações |
 | --- | --- | --- | --- | --- | --- |
-| | | | | | |
+| 04/11/2026 | 01 · Os sons do francês | 30 min | 10 | 2 🙂 | Fez todos os exercícios, achou ótima. |
 
 Exemplo de linha:
 
@@ -26,7 +26,7 @@ Fez? Troque ⬜ por ✅.
 
 | Aula | Concluída | +1 dia | +3 dias | +7 dias | +14 dias |
 | --- | --- | --- | --- | --- | --- |
-| 01 | | ⬜ | ⬜ | ⬜ | ⬜ |
+| 01 | 04/11 | ⬜ 05/11 | ⬜ 07/11 | ⬜ 11/11 | ⬜ 18/11 |
 | 02 | | ⬜ | ⬜ | ⬜ | ⬜ |
 | 03 | | ⬜ | ⬜ | ⬜ | ⬜ |
 | 04 | | ⬜ | ⬜ | ⬜ | ⬜ |

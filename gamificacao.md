@@ -75,7 +75,7 @@ Marque quando desbloquear. Cada conquista vale a festa. 🎉
 
 ### Gerais
 
-- [ ] 👣 **Premier Pas** — fazer a primeira aula
+- [x] 👣 **Premier Pas** — fazer a primeira aula · ✅ 04/11/2026
 - [ ] 📅 **Semana Redonda** — 7 dias de streak (coringas valem)
 - [ ] 🌙 **Mês de Ferro** — 30 dias de streak
 - [ ] 💯 **Cabeça Fresca** — 10 mini-quizzes com 100%
@@ -106,11 +106,11 @@ Uma linha por sessão (ou por semana, no domingo).
 
 | Data | O quê | XP | Total | Conquistas |
 | --- | --- | --- | --- | --- |
-| | | | 0 | |
+| 04/11/2026 | Aula 01 · Os sons do francês (completa, 30 min) | 10 | 10 | 👣 Premier Pas |
 
 ## 🏅 Recordes
 
 | Recorde | Valor | Data |
 | --- | --- | --- |
-| Melhor streak | 0 dias | |
-| Mais XP numa semana | 0 | |
+| Melhor streak | 1 dia | 04/11/2026 |
+| Mais XP numa semana | 10 | semana de 02/11/2026 |
