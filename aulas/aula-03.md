@@ -26,7 +26,7 @@ Regra de ouro desta aula: **aprenda sempre a palavra junto com o artigo.**
 
 Apresente-se em voz alta, sem olhar (aula 02):
 
-- Je m'appelle… · Je suis brésilienne. · J'habite à Lisbonne. · Enchantée !
+- Je m'appelle… · Je suis brésilienne. · J'habite à Porto. · Enchantée !
 
 ---
 
@@ -112,7 +112,7 @@ Exceções famosas: **la** plage, **la** page, **l'**image (f).
 
 São pistas, não leis. Mas acertam na maioria das vezes. ✅
 
-### 6️⃣ Lisboa em francês 🇵🇹
+### 6️⃣ O Porto em francês 🇵🇹
 
 | Francês | Português |
 | --- | --- |

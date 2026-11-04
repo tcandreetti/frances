@@ -88,6 +88,11 @@ O que acontece:
 - As palavras que você **já estuda** são reconhecidas (cada uma tem um código fixo) e **continuam com o seu progresso**.
 - Só os cartões **novos** entram, nos subdecks das aulas novas.
 - Correções de tradução ou de áudio nas palavras antigas também chegam. ✨
+- ⚠️ Se uma frase **em francês** for corrigida, ela entra como cartão novo e a versão antiga **continua no seu celular**. Para apagar: toque na 🔍 (**Navegador**), procure a frase antiga, segure o dedo nela e escolha **Excluir nota**. Cada versão nova avisa aqui quais frases mudaram.
+
+**Mudanças por versão:**
+
+- **04/11/2026:** *J'habite à Lisbonne, au Portugal.* virou *J'habite à Porto, au Portugal.* (Aula 06). Se você importou antes, apague a frase com Lisbonne.
 
 ## 🛠️ Para quem mantém o curso
 

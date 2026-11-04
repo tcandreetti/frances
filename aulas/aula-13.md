@@ -156,7 +156,7 @@ O seu R está saindo como **H** (só ar). Falta o **atrito** lá atrás.
 3. Teste da mão: ponha a mão na frente da boca.
    - **H** = só sopro quente.
    - **R** = um chiado/ronco na garganta, como um gargarejo seco.
-4. Em Lisboa você ouve um R parecido em "**r**ato" e "ca**rr**o". 🇵🇹
+4. Em Portugal você ouve um R parecido em "**r**ato" e "ca**rr**o". 🇵🇹
 
 Repita, devagar e depois rápido:
 

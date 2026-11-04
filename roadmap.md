@@ -25,7 +25,7 @@ flowchart LR
 | **A1** | Apresentar-se, falar de si, pedir coisas simples, entender frases curtas e lentas. |
 | **A2** | Falar da rotina, do passado e de planos; resolver situações do dia a dia (loja, médico, viagem). |
 
-📝 A prova oficial é o **DELF** (A1, A2…). Fazer a prova é **opcional**. Em Portugal, o Institut français du Portugal coordena os exames e a Alliance Française de Lisboa aplica e prepara para a prova. Datas e locais: ver links no fim.
+📝 A prova oficial é o **DELF** (A1, A2…). Fazer a prova é **opcional**. Em Portugal, o Institut français du Portugal coordena os exames. No Porto, a prova é aplicada pela Alliance Française do Porto e pela Faculdade de Letras da Universidade do Porto (FLUP). Datas e locais: ver links no fim.
 
 ## 🧭 Em que aula começar?
 
@@ -119,4 +119,5 @@ flowchart LR
 - [Anki (flashcards)](https://apps.ankiweb.net/) · [Decks compartilhados](https://ankiweb.net/shared/decks)
 - [France Éducation international — DELF (informações oficiais)](https://www.france-education-international.fr/diplome/delf-tout-public)
 - [Institut français du Portugal — exames DELF em Portugal](https://www.ifp-lisboa.com/lingua-francesa/examens-officiais/)
-- [Alliance Française de Lisboa — cursos e exames](https://www.alliancefr-lisboa.pt/)
+- [Alliance Française do Porto — exames DELF/DALF](https://www.alliancefr.pt/porto/exame/exames-delf-dalf/)
+- [FLUP (Universidade do Porto) — exames DELF/DALF](https://sigarra.up.pt/flup/pt/p/exames%20delf/%20dalf)

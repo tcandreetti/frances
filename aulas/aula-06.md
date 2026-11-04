@@ -8,7 +8,7 @@ Nível 1 · Bloco A · ⏱️ 30 min · ⭐ 10 XP
 
 - Usar as **preposições do dia a dia**: à, de, en, dans, sur, sous, chez, avec, sans, pour.
 - Fazer as **contrações obrigatórias**: au, aux, du, des.
-- Dizer **em que cidade e país** você está: *à Lisbonne, au Portugal, en France*.
+- Dizer **em que cidade e país** você está: *à Porto, au Portugal, en France*.
 
 ## 🤔 Por que isso importa
 
@@ -48,10 +48,10 @@ Revise a aula 05 em voz alta:
 | --- | --- | --- | --- |
 | **à** | a, em, para (lugar, hora) | Je vais **à** Paris. | Vou para Paris. |
 | | | Le cours est **à** 9 h. | A aula é às 9h. |
-| **de** | de (origem, posse) | Je viens **de** Lisbonne. | Venho de Lisboa. |
+| **de** | de (origem, posse) | Je viens **de** Porto. | Venho do Porto. |
 | | | Le livre **de** Camila. | O livro da Camila. |
 
-🔊 [Je vais à Paris.](assets/aula-06/audio/je-vais-a-paris.mp3) · [Le cours est à neuf heures.](assets/aula-06/audio/cours-9h.mp3) · [Je viens de Lisbonne.](assets/aula-06/audio/je-viens-de-lisbonne.mp3) · [Le livre de Camila.](assets/aula-06/audio/livre-de-camila.mp3)
+🔊 [Je vais à Paris.](assets/aula-06/audio/je-vais-a-paris.mp3) · [Le cours est à neuf heures.](assets/aula-06/audio/cours-9h.mp3) · [Je viens de Porto.](assets/aula-06/audio/je-viens-de-porto.mp3) · [Le livre de Camila.](assets/aula-06/audio/livre-de-camila.mp3)
 
 ### 2️⃣ As contrações obrigatórias ⚠️
 
@@ -81,7 +81,7 @@ Com **la** e **l'** não há contração:
 | **au** + país masculino | au Portugal, au Brésil, au Japon |
 | **aux** + país no plural | aux États-Unis |
 
-🔊 [J'habite à Lisbonne, au Portugal.](assets/aula-06/audio/lisbonne-portugal.mp3) · [Je suis née au Brésil.](assets/aula-06/audio/nee-au-bresil.mp3) · [Je voyage en France.](assets/aula-06/audio/voyage-en-france.mp3) · [Il habite aux États-Unis.](assets/aula-06/audio/etats-unis.mp3)
+🔊 [J'habite à Porto, au Portugal.](assets/aula-06/audio/porto-portugal.mp3) · [Je suis née au Brésil.](assets/aula-06/audio/nee-au-bresil.mp3) · [Je voyage en France.](assets/aula-06/audio/voyage-en-france.mp3) · [Il habite aux États-Unis.](assets/aula-06/audio/etats-unis.mp3)
 
 💡 Exceção famosa: **le Mexique** termina em -e, mas é masculino: *au Mexique*.
 
@@ -135,7 +135,7 @@ Com **la** e **l'** não há contração:
   2. Elle est ___ plage.
   3. Nous allons ___ école.
   4. Il parle ___ enfants.
-  5. J'habite ___ Lisbonne.
+  5. J'habite ___ Porto.
 - [ ] **Exercício B · de, du, de la ou des?**
   1. Je viens ___ Brésil.
   2. C'est le livre ___ Camila.

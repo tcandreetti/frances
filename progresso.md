@@ -72,7 +72,7 @@ Anotados na Aula 02 e no [nivelamento](nivelamento.md) (04/11/2026). Entram no a
 
 | Ponto | Regra rápida | Status |
 | --- | --- | --- |
-| **à / au / en com países** | Cidade → **à** (à Lisbonne). País masculino → **au** (au Portugal, au Brésil). País feminino → **en** (en France). Plural → **aux** (aux États-Unis). | ⬜ |
+| **à / au / en com países** | Cidade → **à** (à Porto). País masculino → **au** (au Portugal, au Brésil). País feminino → **en** (en France). Plural → **aux** (aux États-Unis). | ⬜ |
 | **bon après-midi × bonsoir** | *Bon après-midi !* = "boa tarde" ao **se despedir** à tarde. *Bonsoir !* = "boa noite" ao **chegar**, à noite. De tarde, ao chegar, ainda é *Bonjour !* | ⬜ |
 | **mon / ton / son antes de vogal** | Palavra feminina que começa com vogal (ou h mudo) usa **mon, ton, son**: *mon amie, ton école, son histoire*. *ma amie* ✗. | ⬜ |
 | **prendre e os irregulares** | **prendre:** je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent. **aller:** je vais, tu vas, il va, nous allons, vous allez, ils vont. **faire:** je fais, tu fais, il fait, nous faisons, vous faites, ils font. | ⬜ |

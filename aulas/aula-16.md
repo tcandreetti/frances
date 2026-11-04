@@ -120,7 +120,7 @@ Depois confira: 🔊 [Conferir os números](assets/aula-16/audio/numeros.mp3)
 Complete no papel:
 
 1. C'est ___ amie Marie. (minha)
-2. Tu ___ (habiter) à Lisbonne ?
+2. Tu ___ (habiter) à Porto ?
 3. Je ___ aime ___ le froid. (negativa)
 4. Nous ___ (prendre) le bus.
 5. Elle ___ (aller) au cinéma et ils ___ (faire) du sport.

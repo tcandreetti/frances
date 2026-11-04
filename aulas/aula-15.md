@@ -53,13 +53,13 @@ Monte a sua com este modelo. Troque o que quiser.
 | --- | --- |
 | Bonjour ! Je m'appelle Thaís. | Olá! Eu me chamo Thaís. |
 | Je suis brésilienne. Je suis née au Brésil. | Sou brasileira. Nasci no Brasil. |
-| J'habite au Portugal, à Lisbonne. | Moro em Portugal, em Lisboa. |
+| J'habite à Porto, au Portugal. | Moro no Porto, em Portugal. |
 | J'ai trente-cinq ans. | Tenho trinta e cinco anos. |
 | Je parle portugais, un peu anglais et un peu français. | Falo português, um pouco de inglês e um pouco de francês. |
 | J'aime la musique, le café et la plage. | Gosto de música, de café e da praia. |
 | Je n'aime pas le froid. | Não gosto do frio. |
 | Le week-end, je vais au marché avec mon amie Ana. | No fim de semana, vou ao mercado com a minha amiga Ana. |
-| Parfois, je prends le train pour Sintra. | Às vezes, pego o trem para Sintra. |
+| Parfois, je prends le train pour Lisbonne. | Às vezes, pego o trem para Lisboa. |
 | Merci ! | Obrigada! |
 
 🔊 [Ouvir o modelo inteiro](assets/aula-15/audio/apresentacao.mp3)

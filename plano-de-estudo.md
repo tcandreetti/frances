@@ -39,7 +39,7 @@ Marque `[x]` quando concluir. 🎉
 - [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP · continua disponível para consulta
 - 🎯 **Objetivo:** usar le, la, l', les, un, une, des e conhecer os gêneros "trocados".
 - ⏱️ **5 min:** apresentação sem olhar.
-- ⏱️ **20 min:** artigos · plural que não se ouve · la mer, le voyage · pistas (-tion, -age) · Lisboa em francês.
+- ⏱️ **20 min:** artigos · plural que não se ouve · la mer, le voyage · pistas (-tion, -age) · o Porto em francês.
 - ⏱️ **5 min:** quiz.
 - 📄 [Abrir aula](aulas/aula-03.md)
 
@@ -136,7 +136,7 @@ Marque `[x]` quando concluir. 🎉
 - [ ] Concluída · 10 XP
 - 🎯 **Objetivo:** entender um diálogo lento sem ler.
 - ⏱️ **5 min:** 3 perguntas dos pontos a revisar.
-- ⏱️ **20 min:** 2 diálogos lentos com áudio (padaria em Paris, convite em Lisboa) · 1 vídeo A1 da TV5Monde · ouvir 3× · anotar o que entendeu.
+- ⏱️ **20 min:** 2 diálogos lentos com áudio (padaria em Paris, convite no Porto) · 1 vídeo A1 da TV5Monde · ouvir 3× · anotar o que entendeu.
 - ⏱️ **5 min:** quiz de ouvido · anotar no [progresso](progresso.md) quanto entendeu (%).
 - 📄 [Abrir aula](aulas/aula-14.md)
 

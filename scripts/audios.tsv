@@ -57,11 +57,11 @@ aula-02	comment-allez-vous	Comment allez-vous ?
 aula-02	tres-bien-merci	Très bien, merci. Et vous ?
 aula-02	je-mappelle	Je m'appelle Thaís.
 aula-02	je-suis-bresilienne	Je suis brésilienne.
-aula-02	jhabite	J'habite au Portugal, à Lisbonne.
+aula-02	jhabite	J'habite à Porto, au Portugal.
 aula-02	enchantee	Enchantée !
 aula-02	comment-tu-tappelles	Comment tu t'appelles ?
 aula-02	comment-vous-appelez-vous	Comment vous appelez-vous ?
-aula-02	dialogo	Bonjour ! Excusez-moi, vous parlez français ? ... Bonjour ! Un peu. Je m'appelle Thaís. ... Enchantée ! Moi, c'est Claire. Vous êtes portugaise ? ... Non, je suis brésilienne. J'habite à Lisbonne. ... Super ! Où est le métro, s'il vous plaît ? ... Là-bas, à droite. ... Merci beaucoup ! Bonne journée ! ... De rien. Au revoir !
+aula-02	dialogo	Bonjour ! Excusez-moi, vous parlez français ? ... Bonjour ! Un peu. Je m'appelle Thaís. ... Enchantée ! Moi, c'est Claire. Vous êtes portugaise ? ... Non, je suis brésilienne. J'habite à Porto. ... Super ! Où est le métro, s'il vous plaît ? ... Là-bas, à droite. ... Merci beaucoup ! Bonne journée ! ... De rien. Au revoir !
 aula-03	le-cafe	le café
 aula-03	la-plage	la plage
 aula-03	leau	l'eau
@@ -91,7 +91,7 @@ aula-04	vous-etes	vous êtes
 aula-04	ils-sont	ils sont
 aula-04	ex-je-suis	Je suis brésilienne.
 aula-04	ex-elle-est	Elle est fatiguée.
-aula-04	ex-nous-sommes	Nous sommes à Lisbonne.
+aula-04	ex-nous-sommes	Nous sommes à Porto.
 aula-04	jai	j'ai
 aula-04	tu-as	tu as
 aula-04	il-a	il a
@@ -99,7 +99,7 @@ aula-04	nous-avons	nous avons
 aula-04	vous-avez	vous avez
 aula-04	ils-ont	ils ont
 aula-04	ex-jai-un-chat	J'ai un chat.
-aula-04	ex-nous-avons	Nous avons un appartement à Lisbonne.
+aula-04	ex-nous-avons	Nous avons un appartement à Vila Nova de Gaia.
 aula-04	jai-faim	J'ai faim.
 aula-04	jai-soif	J'ai soif.
 aula-04	jai-froid	J'ai froid.
@@ -139,7 +139,7 @@ aula-05	2-50	Deux euros cinquante.
 aula-05	telefone	zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit.
 aula-06	je-vais-a-paris	Je vais à Paris.
 aula-06	cours-9h	Le cours est à neuf heures.
-aula-06	je-viens-de-lisbonne	Je viens de Lisbonne.
+aula-06	je-viens-de-porto	Je viens de Porto.
 aula-06	livre-de-camila	Le livre de Camila.
 aula-06	au-cinema	Je vais au cinéma.
 aula-06	aux-enfants	Je parle aux enfants.
@@ -147,7 +147,7 @@ aula-06	du-bresil	Je viens du Brésil.
 aula-06	des-livres	Le prix des livres.
 aula-06	a-la-plage	à la plage
 aula-06	a-lecole	à l'école
-aula-06	lisbonne-portugal	J'habite à Lisbonne, au Portugal.
+aula-06	porto-portugal	J'habite à Porto, au Portugal.
 aula-06	nee-au-bresil	Je suis née au Brésil.
 aula-06	voyage-en-france	Je voyage en France.
 aula-06	etats-unis	Il habite aux États-Unis.
@@ -217,7 +217,7 @@ aula-14	il-y-a	Il y a un café ?
 aula-14	je-suis	Je suis brésilienne.
 aula-14	quest-ce-que-cest	Qu'est-ce que c'est ?
 aula-14	dialogo-padaria	Bonjour madame ! ... Bonjour ! Je voudrais une baguette et deux croissants, s'il vous plaît. ... Une baguette et deux croissants. Et avec ceci ? ... Il y a des pains au chocolat ? ... Non, désolée, il n'y a plus de pains au chocolat. Mais il y a des chaussons aux pommes. ... Alors, un chausson aux pommes. C'est combien ? ... Ça fait cinq euros soixante. ... Voilà. Vous prenez la carte ? ... Oui, bien sûr. Merci, bonne journée ! ... Merci, vous aussi. Au revoir !
-aula-14	dialogo-sintra	Salut Thaís ! Ça va ? ... Salut Julie ! Ça va bien, et toi ? ... Très bien. Tu fais quoi samedi ? ... Samedi matin, je vais au marché avec mon amie Ana. L'après-midi, je ne fais rien. ... On va à Sintra ? Je prends le train à quatorze heures. ... Super ! Tu prends le train à Rossio ? ... Oui, à Rossio. C'est à quarante minutes d'ici. ... Parfait. À samedi !
+aula-14	dialogo-braga	Salut Thaís ! Ça va ? ... Salut Julie ! Ça va bien, et toi ? ... Très bien. Tu fais quoi samedi ? ... Samedi matin, je vais au marché avec mon amie Ana. L'après-midi, je ne fais rien. ... On va à Braga ? Je prends le train à quatorze heures. ... Super ! Tu prends le train à São Bento ? ... Oui, à São Bento. C'est à une heure d'ici. ... Parfait. À samedi !
 aula-14	ditado-1	Je prends le bus.
 aula-14	ditado-2	C'est mon amie Julie.
 aula-14	ditado-3	Nous allons au cinéma.
@@ -227,7 +227,7 @@ aula-14	quiz-2	Ça fait douze euros.
 aula-14	quiz-3	Je prends le métro.
 aula-14	quiz-4	Elle habite au Portugal.
 aula-14	quiz-5	Il y a un café près d'ici ?
-aula-15	apresentacao	Bonjour ! Je m'appelle Thaís. Je suis brésilienne. Je suis née au Brésil. J'habite au Portugal, à Lisbonne. J'ai trente-cinq ans. Je parle portugais, un peu anglais et un peu français. J'aime la musique, le café et la plage. Je n'aime pas le froid. Le week-end, je vais au marché avec mon amie Ana. Parfois, je prends le train pour Sintra. Merci !
+aula-15	apresentacao	Bonjour ! Je m'appelle Thaís. Je suis brésilienne. Je suis née au Brésil. J'habite à Porto, au Portugal. J'ai trente-cinq ans. Je parle portugais, un peu anglais et un peu français. J'aime la musique, le café et la plage. Je n'aime pas le froid. Le week-end, je vais au marché avec mon amie Ana. Parfois, je prends le train pour Lisbonne. Merci !
 aula-15	leitura	sur ... sous ... lune ... loup ... bon ... vin ... maman ... trop ... grand ... rouge
 aula-15	dialogo-cafe	Bonsoir ! Qu'est-ce que vous prenez ? ... Bonsoir ! Un thé, s'il vous plaît. Vous avez des gâteaux ? ... Oui, il y a une tarte au citron et un gâteau au chocolat. ... Une tarte au citron, alors. C'est combien ? ... Le thé, c'est trois euros, et la tarte, quatre euros cinquante. ... D'accord. Merci !
 aula-15	numeros	douze ... dix-sept ... vingt-cinq ... trente-neuf ... quarante-quatre ... cinquante-trois ... soixante-huit ... soixante-douze ... quatre-vingt-un ... quatre-vingt-dix-neuf

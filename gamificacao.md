@@ -94,7 +94,7 @@ Marque quando desbloquear. Cada conquista vale a festa. 🎉
 - [ ] 🧭 **Mapa na Mão** — fazer a folha A4 de preposições (aula 06)
 - [ ] 🏁 **Primeiros Passos** — passar no checkpoint N1
 - [ ] ☕ **Un Café, S'il Vous Plaît** — pedir algo em francês na vida real
-- [ ] 🗣️ **Bonjour, Touriste !** — ajudar um turista francês em Lisboa, em francês
+- [ ] 🗣️ **Bonjour, Touriste !** — ajudar um turista francês no Porto, em francês
 - [ ] 📺 **Maratona** — 10 h de vídeo/áudio em francês
 - [ ] 📖 **Petit Prince** — ler 1 capítulo de *Le Petit Prince* no original
 - [ ] 🎓 **DELF A1** — passar no simulado do checkpoint N2

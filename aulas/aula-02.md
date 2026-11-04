@@ -17,7 +17,7 @@ Entrar numa loja ou padaria sem dizer "Bonjour" soa mal-educado.
 
 Com 10 expressões você já consegue ser simpática em qualquer lugar.
 
-E em Lisboa tem turista francês por todo lado: dá para treinar de verdade. 🇵🇹
+E no Porto tem turista francês por todo lado: dá para treinar de verdade. 🇵🇹
 
 ---
 
@@ -91,10 +91,10 @@ Também: **vous** é o plural (vocês), sempre.
 | --- | --- |
 | **Je m'appelle Thaís.** | Eu me chamo Thaís. |
 | **Je suis brésilienne.** | Sou brasileira. |
-| **J'habite au Portugal, à Lisbonne.** | Moro em Portugal, em Lisboa. |
+| **J'habite à Porto, au Portugal.** | Moro no Porto, em Portugal. |
 | **Enchantée !** | Muito prazer! |
 
-🔊 [Je m'appelle Thaís.](assets/aula-02/audio/je-mappelle.mp3) · [Je suis brésilienne.](assets/aula-02/audio/je-suis-bresilienne.mp3) · [J'habite au Portugal, à Lisbonne.](assets/aula-02/audio/jhabite.mp3) · [Enchantée !](assets/aula-02/audio/enchantee.mp3)
+🔊 [Je m'appelle Thaís.](assets/aula-02/audio/je-mappelle.mp3) · [Je suis brésilienne.](assets/aula-02/audio/je-suis-bresilienne.mp3) · [J'habite à Porto, au Portugal.](assets/aula-02/audio/jhabite.mp3) · [Enchantée !](assets/aula-02/audio/enchantee.mp3)
 
 E para perguntar:
 
@@ -110,7 +110,7 @@ E para perguntar:
 | brésili**enne** ("brezilién") | brésili**en** ("breziliẽ", nasal) |
 | enchant**ée** | enchant**é** (mesmo som) |
 
-### 6️⃣ Mini-diálogo: num café da Baixa ☕
+### 6️⃣ Mini-diálogo: num café da Ribeira ☕
 
 Uma turista francesa pede ajuda à Thaís.
 
@@ -120,7 +120,7 @@ Uma turista francesa pede ajuda à Thaís.
 >
 > **Claire :** Enchantée ! Moi, c'est Claire. Vous êtes portugaise ?
 >
-> **Thaís :** Non, je suis brésilienne. J'habite à Lisbonne.
+> **Thaís :** Non, je suis brésilienne. J'habite à Porto.
 >
 > **Claire :** Super ! Où est le métro, s'il vous plaît ?
 >

@@ -115,13 +115,13 @@ A Thaís está de férias em Paris e entra numa padaria.
 
 </details>
 
-### 4️⃣ Diálogo 2: um convite em Lisboa 🚆
+### 4️⃣ Diálogo 2: um convite no Porto 🚆
 
-A Julie, amiga francesa da Thaís, mora em Lisboa. Elas usam **tu**.
+A Julie, amiga francesa da Thaís, também mora no Porto. Elas usam **tu**.
 
 **Ouça 2 vezes sem ler** e responda:
 
-🔊 [Ouvir o diálogo 2](assets/aula-14/audio/dialogo-sintra.mp3)
+🔊 [Ouvir o diálogo 2](assets/aula-14/audio/dialogo-braga.mp3)
 
 1. O que a Thaís faz no sábado de manhã? Com quem?
 2. Para onde a Julie a convida?
@@ -140,11 +140,11 @@ A Julie, amiga francesa da Thaís, mora em Lisboa. Elas usam **tu**.
 >
 > **Thaís :** Samedi matin, je vais au marché avec mon amie Ana. L'après-midi, je ne fais rien.
 >
-> **Julie :** On va à Sintra ? Je prends le train à quatorze heures.
+> **Julie :** On va à Braga ? Je prends le train à quatorze heures.
 >
-> **Thaís :** Super ! Tu prends le train à Rossio ?
+> **Thaís :** Super ! Tu prends le train à São Bento ?
 >
-> **Julie :** Oui, à Rossio. C'est à quarante minutes d'ici.
+> **Julie :** Oui, à São Bento. C'est à une heure d'ici.
 >
 > **Thaís :** Parfait. À samedi !
 
@@ -152,13 +152,13 @@ A Julie, amiga francesa da Thaís, mora em Lisboa. Elas usam **tu**.
 | --- | --- |
 | Tu fais quoi samedi ? | O que tu vais fazer no sábado? (informal) |
 | je ne fais rien | não faço nada |
-| On va à Sintra ? | Vamos a Sintra? (*on* = a gente) |
-| C'est à quarante minutes d'ici. | Fica a 40 minutos daqui. |
+| On va à Braga ? | Vamos a Braga? (*on* = a gente) |
+| C'est à une heure d'ici. | Fica a uma hora daqui. |
 | À samedi ! | Até sábado! |
 
 🎯 Repare: **mon** amie Ana · je **vais**, tu **fais**, je **prends**, tu **prends**. Os seus pontos a revisar, ao vivo!
 
-**Respostas:** 1. Vai ao mercado, com a amiga Ana · 2. Sintra · 3. Às 14h · 4. Rossio · 5. 40 minutos
+**Respostas:** 1. Vai ao mercado, com a amiga Ana · 2. Braga · 3. Às 14h · 4. São Bento · 5. Uma hora
 
 </details>
 

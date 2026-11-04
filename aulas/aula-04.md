@@ -71,9 +71,9 @@ Exemplos:
 
 - **Je suis** brésilienne. — Sou brasileira.
 - **Elle est** fatiguée. — Ela está cansada.
-- **Nous sommes** à Lisbonne. — Estamos em Lisboa.
+- **Nous sommes** à Porto. — Estamos no Porto.
 
-🔊 [Je suis brésilienne.](assets/aula-04/audio/ex-je-suis.mp3) · [Elle est fatiguée.](assets/aula-04/audio/ex-elle-est.mp3) · [Nous sommes à Lisbonne.](assets/aula-04/audio/ex-nous-sommes.mp3)
+🔊 [Je suis brésilienne.](assets/aula-04/audio/ex-je-suis.mp3) · [Elle est fatiguée.](assets/aula-04/audio/ex-elle-est.mp3) · [Nous sommes à Porto.](assets/aula-04/audio/ex-nous-sommes.mp3)
 
 ### 3️⃣ avoir = ter
 
@@ -91,9 +91,9 @@ Exemplos:
 Exemplos:
 
 - **J'ai** un chat. — Tenho um gato. 🐱
-- **Nous avons** un appartement à Lisbonne. — Temos um apartamento em Lisboa.
+- **Nous avons** un appartement à Vila Nova de Gaia. — Temos um apartamento em Vila Nova de Gaia.
 
-🔊 [J'ai un chat.](assets/aula-04/audio/ex-jai-un-chat.mp3) · [Nous avons un appartement à Lisbonne.](assets/aula-04/audio/ex-nous-avons.mp3)
+🔊 [J'ai un chat.](assets/aula-04/audio/ex-jai-un-chat.mp3) · [Nous avons un appartement à Vila Nova de Gaia.](assets/aula-04/audio/ex-nous-avons.mp3)
 
 ### 4️⃣ A armadilha: ils sont × ils ont ⚠️
 
@@ -145,7 +145,7 @@ Antes de vogal, **ne** vira **n'**.
 - [ ] Recite as duas conjugações **3 vezes**, em voz alta.
 - [ ] **Exercício A · Complete com être:**
   1. Je ______ brésilienne.
-  2. Nous ______ à Lisbonne.
+  2. Nous ______ à Porto.
   3. Vous ______ français ?
   4. Elles ______ fatiguées.
 - [ ] **Exercício B · Complete com avoir:**
