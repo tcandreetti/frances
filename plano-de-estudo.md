@@ -169,16 +169,46 @@ Não passou? Ganha 10 XP e treina só o que faltou. 💪
 
 ---
 
-## Nível 2 · Dia a dia — A1 (20 aulas) — esboço
+## Nível 2 · Dia a dia — A1 (20 aulas)
 
-| Módulo | Aulas | Conteúdo |
-| --- | --- | --- |
-| 2.1 Família e casa | 3 + 🔁 | mon, ma, mes · la famille · l'appartement |
-| 2.2 Tempo | 3 + 🔁 | dias, meses, estações · quelle heure est-il ? · rotina |
-| 2.3 Comer e comprar | 4 + 🔁 | supermercado · restaurante · quantidades · je voudrais |
-| 2.4 Verbos irregulares | 3 + 🔁 | aller · faire · prendre · vouloir · pouvoir |
-| 2.5 Descrever | 2 | adjetivos · cores · roupas |
-| 🏁 Checkpoint 2 | 1 | simulado DELF A1 |
+Meta: o **DELF A1**. Os seus **pontos fracos vêm primeiro** (aulas 17–20): possessivos, *aller / prendre / faire*, elisão e o **-es** do *tu*. 🎯
+
+Uma linha por aula. Marque `[x]` quando concluir. Aula = 10 XP · 🔁 Revisão = 15 XP · 🏁 Checkpoint = 50 XP.
+
+### 🎯 2.1 Pontos fracos primeiro + família
+
+- [ ] **17** · 👨‍👩‍👧 A família e os possessivos I: *mon, ma, mes · ton, ta, tes* · **mon amie** (vogal) · sem artigo antes · 📄 [Abrir](aulas/aula-17.md)
+- [ ] **18** · 🚇 *aller* e *prendre* nas 6 pessoas: transporte no Porto e na França · *au, à la, en train, à pied* · 📄 [Abrir](aulas/aula-18.md)
+- [ ] **19** · 🚴 *faire* nas 6 pessoas + o **-es** do *tu* + elisão (*j', n', l', qu', s'il*) · tempo livre e o clima · 📄 [Abrir](aulas/aula-19.md)
+- [ ] **20** · 🔁 Revisão 1 do N2 (aulas 17–19): os 3 verbos, possessivos, cartão-postal de Bordeaux · 📄 [Abrir](aulas/aula-20.md)
+
+### 🏠 2.2 Casa e tempo
+
+- [ ] **21** · 🏠 Possessivos II (*son, sa, ses, notre, votre, leur*) + a casa: *l'appartement*, os cômodos, *il y a*
+- [ ] **22** · 📅 Dias, meses, estações e datas: *le 4 novembre*, *en été*, aniversários
+- [ ] **23** · 🕐 *Quelle heure est-il ?* Horários de trem, loja e consulta: *à quelle heure… ?*
+- [ ] **24** · 🔁 Revisão 2 do N2 (aulas 21–23)
+
+### 🛒 2.3 Rotina, comer e comprar
+
+- [ ] **25** · ☀️ A rotina sem pronominais: *je travaille, je vais, je prends* + *toujours, souvent, ne… jamais*
+- [ ] **26** · 🛒 No supermercado: quantidades (*un kilo de, une bouteille de, beaucoup de*) e preços
+- [ ] **27** · 🧀 Partitivo: *du, de la, de l', des* · na negativa vira *pas de*
+- [ ] **28** · 🍽️ No restaurante: cardápio, *je voudrais*, *je prends*, *l'addition*
+- [ ] **29** · 🔁 Revisão 3 do N2 (aulas 25–28)
+
+### 💬 2.4 Querer, poder, perguntar
+
+- [ ] **30** · 🙋‍♀️ *vouloir* e *pouvoir* (*je veux, tu veux, je peux*) · pedir com educação: *je voudrais, vous pouvez… ?*
+- [ ] **31** · ❓ Perguntas do A1: *est-ce que, qu'est-ce que, où, quand, combien, pourquoi* + *venir* (*d'où tu viens ?*)
+- [ ] **32** · 🎨 Adjetivos: gênero, plural e lugar (*un petit café, une ville magnifique*)
+- [ ] **33** · 🔁 Revisão 4 do N2 (aulas 30–32)
+
+### 🎓 2.5 Descrever e ensaio do DELF A1
+
+- [ ] **34** · 👗 Cores e roupas: numa loja na França (*je fais du 38, c'est combien ?*)
+- [ ] **35** · 🔁 Revisão final + ensaio do DELF A1 (ouvir, ler, escrever, falar)
+- [ ] **36** · 🏁 **Checkpoint N2:** simulado DELF A1 (compreensão oral e escrita + produção escrita e oral curtas) · 50 XP
 
 ## Nível 3 · Contar e planejar — A1 → A2 (24 aulas) — esboço
 

@@ -87,7 +87,7 @@ Marque quando desbloquear. Cada conquista vale a festa. 🎉
 
 ### 🇫🇷 Francês
 
-- [ ] 👄 **Biquinho Francês** — diferenciar *tu* e *tout* de ouvido (aula 01)
+- [ ] 👄 **Biquinho Francês** — diferenciar *tu* e *tout* de ouvido (aula 01 ou mini-quiz de ouvido da aula 13)
 - [ ] 👋 **Bonjour !** — apresentar-se em voz alta, sem ler (aula 02)
 - [ ] 🧱 **Pilares** — conjugar *être* e *avoir* de cor (aula 04)
 - [ ] 🔢 **Quatre-Vingts** — dizer 10 números acima de 70 sem errar (aula 05)

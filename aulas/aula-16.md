@@ -2,7 +2,7 @@
 
 Nível 1 · Bloco C · ⏱️ 30 min · ⭐ 50 XP (ou 10 XP se ainda não passar)
 
-[← Anterior](aula-15.md) · [Plano](../plano-de-estudo.md) · [Roadmap](../roadmap.md)
+[← Anterior](aula-15.md) · [Plano](../plano-de-estudo.md) · [Roadmap](../roadmap.md) · [Próxima →](aula-17.md)
 
 ## 🎯 Objetivo
 
@@ -206,7 +206,7 @@ Complete no papel:
 
 - **+50 XP** e a conquista 🏁 **Primeiros Passos**.
 - A Prova 1 também vale o 👋 **Bonjour !** (apresentar-se em voz alta, sem ler), se ainda não tiver.
-- Próximo passo: **N2 · Dia a dia**, a partir da Aula 17 (ver [plano de estudo](../plano-de-estudo.md)).
+- Próximo passo: **N2 · Dia a dia**, a partir da [Aula 17](aula-17.md) (ver [plano de estudo](../plano-de-estudo.md)).
 
 **Faltou alguma?** 💪
 

@@ -71,6 +71,10 @@ Atualizado em: 2026-11-04 (dia 1: Aulas 01 e 02 concluídas 🎉, os dois mini-q
 | [14](aulas/aula-14.md) | 👂 Ouvir de verdade | ⬜ |
 | [15](aulas/aula-15.md) | 🔁 Revisão 3 + ensaio do checkpoint | ⬜ |
 | [16](aulas/aula-16.md) | 🏁 Checkpoint N1 | ⬜ |
+| [17](aulas/aula-17.md) | 👨‍👩‍👧 A família e os possessivos I (mon, ma, mes) | ⬜ |
+| [18](aulas/aula-18.md) | 🚇 aller e prendre | ⬜ |
+| [19](aulas/aula-19.md) | 🚴 faire, o -es do tu e a elisão | ⬜ |
+| [20](aulas/aula-20.md) | 🔁 Revisão 1 do N2 (aulas 17–19) | ⬜ |
 
 As próximas estão no [plano de estudo](plano-de-estudo.md).
 

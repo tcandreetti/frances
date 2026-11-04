@@ -234,3 +234,78 @@ aula-15	numeros	douze ... dix-sept ... vingt-cinq ... trente-neuf ... quarante-q
 aula-16	leitura	vous ... vu ... rue ... roue ... tout ... pain ... enfant ... beaucoup ... trois ... merci
 aula-16	dialogo-cafe	Bonjour madame. Vous désirez ? ... Bonjour. Je voudrais un café et un croissant, s'il vous plaît. ... Un expresso ou un café crème ? ... Un café crème. Et une bouteille d'eau, s'il vous plaît. ... Très bien. Vous êtes en vacances ? ... Oui. Je suis brésilienne, mais j'habite au Portugal. Je suis à Paris pour trois jours. ... Super ! Voilà, madame. ... Merci. L'addition, s'il vous plaît. ... Ça fait neuf euros cinquante. ... Voilà. Merci, au revoir ! ... Merci à vous. Bonne journée !
 aula-16	numeros	sept ... seize ... vingt et un ... trente-quatre ... quarante-six ... cinquante-huit ... soixante-six ... soixante-treize ... quatre-vingt-neuf ... quatre-vingt-quatorze
+aula-17	pere	le père
+aula-17	mere	la mère
+aula-17	parents	les parents
+aula-17	frere	le frère
+aula-17	soeur	la sœur
+aula-17	mari	le mari
+aula-17	femme	la femme
+aula-17	fils	le fils
+aula-17	fille	la fille
+aula-17	grand-pere	le grand-père
+aula-17	grand-mere	la grand-mère
+aula-17	oncle	l'oncle
+aula-17	tante	la tante
+aula-17	cousin	le cousin
+aula-17	cousine	la cousine
+aula-17	mon-frere	mon frère
+aula-17	ma-soeur	ma sœur
+aula-17	mes-parents	mes parents
+aula-17	ton-frere	ton frère
+aula-17	ta-soeur	ta sœur
+aula-17	tes-parents	tes parents
+aula-17	mon-amie	mon amie
+aula-17	mon-ecole	mon école
+aula-17	ton-histoire	ton histoire
+aula-17	mon-adresse	mon adresse
+aula-17	cest-ma-soeur	C'est ma sœur.
+aula-17	ce-sont-mes-grands-parents	Ce sont mes grands-parents.
+aula-17	dialogo	Qui est-ce, sur la photo ? ... C'est ma famille, au Brésil. Ici, c'est mon père et ma mère. ... Et lui, c'est ton frère ? ... Oui, c'est mon frère, Lucas. Et elle, c'est mon amie Bia. Elle habite avec moi à Porto. ... Et tes grands-parents ? ... Mes grands-parents habitent à São Paulo. Et toi, tu as des frères et sœurs ? ... Oui, j'ai une sœur. Ma sœur s'appelle Léa. Elle habite à Lyon.
+aula-18	je-vais	je vais
+aula-18	tu-vas	tu vas
+aula-18	il-va	il va
+aula-18	nous-allons	nous allons
+aula-18	vous-allez	vous allez
+aula-18	ils-vont	ils vont
+aula-18	au-marche	Je vais au marché.
+aula-18	a-la-plage	Je vais à la plage.
+aula-18	a-laeroport	Je vais à l'aéroport.
+aula-18	en-france	Je vais en France.
+aula-18	je-prends	je prends
+aula-18	tu-prends	tu prends
+aula-18	il-prend	il prend
+aula-18	nous-prenons	nous prenons
+aula-18	vous-prenez	vous prenez
+aula-18	ils-prennent	ils prennent
+aula-18	japprends	J'apprends le français.
+aula-18	je-ne-comprends-pas	Je ne comprends pas.
+aula-18	je-prends-le-metro	Je prends le métro.
+aula-18	en-train	Je vais à Lyon en train.
+aula-18	a-pied	Je vais à la Ribeira à pied.
+aula-18	dialogo	Pardon, madame. Pour aller à la Ribeira, s'il vous plaît ? ... Vous prenez le métro, la ligne D, jusqu'à São Bento. Après, vous allez à pied. C'est à dix minutes. ... Merci ! Et pour l'aéroport, demain ? ... Pour l'aéroport, vous prenez la ligne E, la violette. ... Super. Vous parlez bien français ! ... Merci, j'apprends ! Bon séjour !
+aula-19	je-fais	je fais
+aula-19	tu-fais	tu fais
+aula-19	il-fait	il fait
+aula-19	nous-faisons	nous faisons
+aula-19	vous-faites	vous faites
+aula-19	ils-font	ils font
+aula-19	du-yoga	Je fais du yoga.
+aula-19	les-courses	Je fais les courses.
+aula-19	la-cuisine	Je fais la cuisine.
+aula-19	une-promenade	On fait une promenade ?
+aula-19	quel-temps	Quel temps fait-il ?
+aula-19	il-fait-beau	Il fait beau.
+aula-19	il-fait-froid	Il fait froid.
+aula-19	il-pleut	Il pleut.
+aula-19	tu-habites	Tu habites à Porto ?
+aula-19	tu-aimes	Tu aimes le café ?
+aula-19	tu-fais-du-sport	Tu fais du sport ?
+aula-19	je-naime-pas-la-pluie	Je n'aime pas la pluie.
+aula-19	quest-ce-que-tu-fais	Qu'est-ce que tu fais ?
+aula-19	sil-fait-beau	S'il fait beau, on sort.
+aula-19	dialogo	Salut Thaís ! Qu'est-ce que tu fais ce week-end ? ... Samedi, je fais les courses au marché du Bolhão. Dimanche, s'il fait beau, je fais une promenade au bord du Douro. ... Et s'il pleut ? ... S'il pleut, je fais la cuisine et je regarde un film. Et toi, qu'est-ce que tu fais ? ... Moi, je fais du vélo avec mon frère. Tu aimes le sport ? ... Non, je n'aime pas beaucoup le sport. Mais j'adore marcher !
+aula-20	aller	je vais, tu vas, il va, nous allons, vous allez, ils vont.
+aula-20	prendre	je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent.
+aula-20	faire	je fais, tu fais, il fait, nous faisons, vous faites, ils font.
+aula-20	dialogo-postal	Chère Camille, ... Je suis à Bordeaux avec mon amie Bia. Nous prenons le tram tous les jours et nous allons à pied au centre-ville. Il fait beau, mais il fait froid le soir. Aujourd'hui, nous faisons une promenade au bord de la Garonne. Bia adore les canelés ! Et toi, qu'est-ce que tu fais à Porto ? Tu prends des vacances en décembre ? ... Bisous, Thaís.
