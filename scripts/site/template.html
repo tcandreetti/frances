@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{titulo}} · Francês da Thaís</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{prefixo}}style.css">
+</head>
+<body data-pagina="{{pagina}}">
+<div class="faixa" aria-hidden="true"><span></span><span></span><span></span></div>
+<header class="topo">
+  <button class="abrir-menu" aria-label="Abrir menu" aria-expanded="false">☰</button>
+  <a class="marca" href="{{prefixo}}index.html">🇫🇷 Francês da Thaís</a>
+</header>
+<div class="layout">
+  <nav class="menu" aria-label="Navegação">
+    <ul>
+{{menu}}
+    </ul>
+  </nav>
+  <main class="conteudo">
+{{conteudo}}
+  </main>
+</div>
+<footer class="rodape">Bonne étude ! 🇫🇷 · Áudios: voz neural francesa (fr-FR-DeniseNeural)</footer>
+<script src="{{prefixo}}app.js"></script>
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true, theme: "neutral", fontFamily: "Atkinson Hyperlegible, sans-serif" });
+</script>
+</body>
+</html>
