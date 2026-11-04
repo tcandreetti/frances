@@ -36,7 +36,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 03 · Artigos e gênero
 
-- [ ] Concluída · 10 XP · 👉 **próxima aula**
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP · continua disponível para consulta
 - 🎯 **Objetivo:** usar le, la, l', les, un, une, des e conhecer os gêneros "trocados".
 - ⏱️ **5 min:** apresentação sem olhar.
 - ⏱️ **20 min:** artigos · plural que não se ouve · la mer, le voyage · pistas (-tion, -age) · Lisboa em francês.
@@ -45,7 +45,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 04 · être e avoir
 
-- [ ] Concluída · 10 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP · continua disponível para consulta
 - 🎯 **Objetivo:** conjugar os dois verbos-chave e usar *avoir* para fome, sede, frio e idade.
 - ⏱️ **5 min:** artigos.
 - ⏱️ **20 min:** pronomes (on = a gente) · être · avoir · *ils sont × ils ont* · ne… pas.
@@ -54,7 +54,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 05 · Números de 0 a 100
 
-- [ ] Concluída · 10 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP · continua disponível para consulta
 - 🎯 **Objetivo:** contar até 20 sem olhar, entender 70/80/90 e dizer idade e preço.
 - ⏱️ **5 min:** être e avoir.
 - ⏱️ **20 min:** 0–20 · dezenas · soixante-dix, quatre-vingts · c'est combien ? · telefone em pares.
@@ -63,7 +63,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 06 · Preposições do dia a dia
 
-- [ ] Concluída · 10 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP · continua disponível para consulta
 - 🎯 **Objetivo:** usar à, de, en, dans, sur, sous, chez, avec, sans, pour e as contrações au, aux, du, des.
 - ⏱️ **5 min:** números e preços.
 - ⏱️ **20 min:** infográfico · contrações · cidades e países · onde está? · chez.
@@ -72,7 +72,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 07 · 🔁 Revisão 1 (aulas 01–06)
 
-- [ ] Concluída · 15 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP
 - 🎯 **Objetivo:** fixar o Bloco A e montar o Anki.
 - ⏱️ **5 min:** ouvir os áudios "todos" de 2 aulas.
 - ⏱️ **20 min:** instalar o Anki · 30 cartões (palavra **com artigo** + áudio) · refazer os exercícios que erraram.
@@ -82,7 +82,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 08 · Verbos em -er: parler, habiter, aimer
 
-- [ ] Concluída · 10 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP
 - 🎯 **Objetivo:** conjugar os verbos regulares (a maioria do francês!).
 - ⏱️ **5 min:** être e avoir.
 - ⏱️ **20 min:** terminações -e, -es, -e, -ons, -ez, -ent (3 delas mudas!) · j'aime / je n'aime pas.
@@ -90,7 +90,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 09 · Fazer perguntas
 
-- [ ] Concluída · 10 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP
 - 🎯 **Objetivo:** perguntar de 3 jeitos e usar qui, où, comment, quand.
 - ⏱️ **5 min:** verbos em -er.
 - ⏱️ **20 min:** entonação (Tu parles français ?) · est-ce que · palavras interrogativas.
@@ -98,7 +98,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 10 · Nacionalidades e profissões
 
-- [ ] Concluída · 10 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP
 - 🎯 **Objetivo:** falar de quem é quem: *il est brésilien, elle est médecin, c'est mon amie*.
 - ⏱️ **5 min:** perguntas.
 - ⏱️ **20 min:** masculino × feminino (-ien/-ienne, -ais/-aise) · *c'est* × *il/elle est*.
@@ -106,7 +106,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 11 · No café e na padaria ☕🥐
 
-- [ ] Concluída · 10 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP
 - 🎯 **Objetivo:** pedir, perguntar o preço e pagar.
 - ⏱️ **5 min:** números.
 - ⏱️ **20 min:** je voudrais… · il y a… · du, de la (partitivo) · l'addition, s'il vous plaît.
@@ -114,7 +114,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 12 · 🔁 Revisão 2 (aulas 08–11)
 
-- [ ] Concluída · 15 XP
+- [ ] ⏭️ Pulada pelo nivelamento (04/11/2026) · sem XP
 - 🎯 **Objetivo:** juntar tudo em frases completas.
 - ⏱️ **5 min:** Anki.
 - ⏱️ **20 min:** escrever 10 frases sobre você · ler em voz alta · gravar e ouvir.
@@ -124,27 +124,30 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 13 · Sons II: é, è, ê e o e mudo
 
-- [ ] Concluída · 10 XP
+- [ ] Concluída · 10 XP · 👉 **próxima aula**
 - 🎯 **Objetivo:** ler acentos com segurança.
-- ⏱️ **5 min:** Anki.
-- ⏱️ **20 min:** é (fechado) · è / ê (aberto) · e mudo · ditado de 10 palavras.
+- ⏱️ **5 min:** 3 perguntas dos pontos a revisar + ponte das aulas 07–12.
+- ⏱️ **20 min:** é (fechado) · è / ê (aberto) · e mudo · ditado de 10 palavras · treino de **vous × vu, roue × rue** e do **R**.
 - ⏱️ **5 min:** quiz de ouvido.
+- 📄 [Abrir aula](aulas/aula-13.md)
 
 #### Aula 14 · Ouvir de verdade 👂
 
 - [ ] Concluída · 10 XP
 - 🎯 **Objetivo:** entender um diálogo lento sem ler.
-- ⏱️ **5 min:** Anki.
-- ⏱️ **20 min:** 1 vídeo A1 da TV5Monde · ouvir 3× · anotar o que entendeu.
-- ⏱️ **5 min:** anotar no [progresso](progresso.md) quanto entendeu (%).
+- ⏱️ **5 min:** 3 perguntas dos pontos a revisar.
+- ⏱️ **20 min:** 2 diálogos lentos com áudio (padaria em Paris, convite em Lisboa) · 1 vídeo A1 da TV5Monde · ouvir 3× · anotar o que entendeu.
+- ⏱️ **5 min:** quiz de ouvido · anotar no [progresso](progresso.md) quanto entendeu (%).
+- 📄 [Abrir aula](aulas/aula-14.md)
 
 #### Aula 15 · 🔁 Revisão 3 (aulas 13–14 + ensaio)
 
 - [ ] Concluída · 15 XP
 - 🎯 **Objetivo:** ensaio do checkpoint.
-- ⏱️ **5 min:** apresentação em voz alta.
+- ⏱️ **5 min:** 3 perguntas dos pontos a revisar + apresentação em voz alta.
 - ⏱️ **20 min:** simulado do checkpoint · revisar o que falhou.
 - ⏱️ **5 min:** quiz misto.
+- 📄 [Abrir aula](aulas/aula-15.md)
 
 ### 🏁 Aula 16 · Checkpoint N1 — Primeiros passos
 
@@ -157,7 +160,10 @@ Marque `[x]` quando concluir. 🎉
 - [ ] Ler em voz alta **10 palavras** com u/ou, nasais e letras mudas (pelo menos 8 certas).
 - [ ] Conjugar **être**, **avoir** e **parler** sem olhar.
 - [ ] Entender um **diálogo curto de café** e responder 5 perguntas (pelo menos 4 certas).
-- [ ] Dizer **10 números** aleatórios entre 0 e 100.
+- [ ] Dizer **10 números** aleatórios entre 0 e 100 (pelo menos 9 certos).
+- [ ] 🎯 **Pontos fracos:** completar 8 frases com os [pontos a revisar](progresso.md#-pontos-a-revisar) (pelo menos 6 certas).
+
+📄 [Abrir checkpoint](aulas/aula-16.md)
 
 Não passou? Ganha 10 XP e treina só o que faltou. 💪
 

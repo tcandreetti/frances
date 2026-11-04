@@ -40,6 +40,8 @@ for linha in (RAIZ / "scripts/audios.tsv").read_text(encoding="utf-8").splitline
 for aula, itens in por_aula.items():
     md = (RAIZ / "aulas" / f"{aula}.md").read_text(encoding="utf-8")
     if f"assets/{aula}/audio/todos.mp3" in md:
-        textos = [t for a, t in itens if a not in ("dialogo",)]
+        # diálogos, ditados e quizzes de ouvido ficam fora do "todos"
+        textos = [t for a, t in itens
+                  if not a.startswith(("dialogo", "ditado", "ouvido", "quiz"))]
         texto = " ... ".join(t if t.rstrip()[-1:] in ".!?" else t + "." for t in textos)
         tts(texto, RAIZ / "aulas/assets" / aula / "audio" / "todos.mp3")

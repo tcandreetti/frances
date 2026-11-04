@@ -12,6 +12,7 @@ Uma linha por sessão. Curto basta.
 | --- | --- | --- | --- | --- | --- |
 | 04/11/2026 | 01 · Os sons do francês | 30 min | 10 + 5 💯 | 2 🙂 | Fez todos os exercícios, achou ótima. Mini-quiz 7/7 (100%) → +5 XP. 👄 Biquinho Francês ainda não: ver [pontos a treinar](#-pontos-de-pronúncia-a-treinar). |
 | 04/11/2026 | 02 · Cumprimentos e apresentar-se | 30 min | 10 + 5 💯 | 2 🙂 | Ex. A (tu/vous) 4/4. Ex. B: escreveu *j'habite à Portugal* (certo: *au Portugal*) e corrigiu *bon après-midi* × *bonsoir*. Falou *enchantée*. Femininos certos (enchantée, désolée, fatiguée, mariée, invitée, née); na frase final trocou *mariée* por *brésilienne*. Mini-quiz 100% → +5 XP. Ver [pontos a revisar](#-pontos-a-revisar). |
+| 04/11/2026 | 🧭 [Nivelamento](nivelamento.md) | ~15 min | — (não vale XP) | — | Bloco 1: 5/5 · Bloco 2: 4/4 · Bloco 3: parou com 2 erros (item 10 *ma amie* → *mon amie*; item 11 *prendre* → *prends*). **Começa na Aula 13**; aulas 03–12 puladas (03–06 ficam para consulta). Deslizes que passaram: *tu habite* → *tu habites*; *je ne aime pas* → *je n'aime pas*. |
 
 Exemplo de linha:
 
@@ -29,10 +30,10 @@ Fez? Troque ⬜ por ✅.
 | --- | --- | --- | --- | --- | --- |
 | 01 | 04/11 | ⬜ 05/11 | ⬜ 07/11 | ⬜ 11/11 | ⬜ 18/11 |
 | 02 | 04/11 | ⬜ 05/11 | ⬜ 07/11 | ⬜ 11/11 | ⬜ 18/11 |
-| 03 | | ⬜ | ⬜ | ⬜ | ⬜ |
-| 04 | | ⬜ | ⬜ | ⬜ | ⬜ |
-| 05 | | ⬜ | ⬜ | ⬜ | ⬜ |
-| 06 | | ⬜ | ⬜ | ⬜ | ⬜ |
+| 03–12 | ⏭️ puladas pelo nivelamento | — | — | — | — |
+| 13 | | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14 | | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15 | | ⬜ | ⬜ | ⬜ | ⬜ |
 
 Exemplo: concluída **10/11** → revisões **11/11 · 13/11 · 17/11 · 24/11**.
 
@@ -67,14 +68,18 @@ Anotados na Aula 01 (04/11/2026). A conquista 👄 **Biquinho Francês** ainda n
 
 ## 📌 Pontos a revisar
 
-Anotados na Aula 02 (04/11/2026). Entram no aquecimento das revisões espaçadas.
+Anotados na Aula 02 e no [nivelamento](nivelamento.md) (04/11/2026). Entram no aquecimento das revisões espaçadas e das Aulas 13 a 16.
 
 | Ponto | Regra rápida | Status |
 | --- | --- | --- |
 | **à / au / en com países** | Cidade → **à** (à Lisbonne). País masculino → **au** (au Portugal, au Brésil). País feminino → **en** (en France). Plural → **aux** (aux États-Unis). | ⬜ |
 | **bon après-midi × bonsoir** | *Bon après-midi !* = "boa tarde" ao **se despedir** à tarde. *Bonsoir !* = "boa noite" ao **chegar**, à noite. De tarde, ao chegar, ainda é *Bonjour !* | ⬜ |
+| **mon / ton / son antes de vogal** | Palavra feminina que começa com vogal (ou h mudo) usa **mon, ton, son**: *mon amie, ton école, son histoire*. *ma amie* ✗. | ⬜ |
+| **prendre e os irregulares** | **prendre:** je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent. **aller:** je vais, tu vas, il va, nous allons, vous allez, ils vont. **faire:** je fais, tu fais, il fait, nous faisons, vous faites, ils font. | ⬜ |
+| **elisão n' / j' / l'** | *ne, je, le, la* perdem a vogal antes de vogal ou h mudo: *je n'aime pas, j'habite, l'amie, l'hôtel*. *je ne aime* ✗. | ⬜ |
+| **-es do tu nos verbos -er** | *tu parles, tu habites, tu aimes*. O **-s** não se ouve, mas se escreve sempre. *tu habite* ✗. | ⬜ |
 
-💡 A Aula 06 (preposições) volta a ver países. Bom momento para marcar ✅.
+💡 Países: a [Aula 06](aulas/aula-06.md) (preposições) fica de consulta. Possessivos e irregulares voltam no N2.
 
 ## 🏁 Checkpoints
 

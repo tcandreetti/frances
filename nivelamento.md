@@ -181,7 +181,7 @@ Pronúncia **não dá para testar no chat**, então **não entra na pontuação*
 
 | Data | B1 (/5) | B2 (/4) | B3 (/4) | B4 (/4) | B5 (/4) | Começa em | Observações |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | |
+| 04/11/2026 | 5/5 | 4/4 | 0/2 (parou: 2 erros nos itens 10 e 11) | — | — | [Aula 13](aulas/aula-13.md) | Item 10: *ma amie* (certo: *mon amie*). Item 11: *prendre* sem conjugar (certo: *je prends*). Deslizes que contaram como certos: *tu habite* (falta o -s) e *je ne aime pas* (falta a elisão *n'*). Ver [pontos a revisar](progresso.md#-pontos-a-revisar). |
 
 ## ✅ Gabarito
 
