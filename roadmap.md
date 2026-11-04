@@ -4,7 +4,7 @@ Meta: **francês básico de verdade**, do zero até o **A1/A2** do Quadro Europe
 
 Para quem: a **Thaís**, brasileira, morando em Portugal, começando do zero. 🇧🇷 🇵🇹 → 🇫🇷
 
-Volte ao [hub](README.md) · [Plano de estudo](plano-de-estudo.md) · [Progresso](progresso.md)
+Volte ao [hub](README.md) · [Plano de estudo](plano-de-estudo.md) · [Progresso](progresso.md) · [Nivelamento](nivelamento.md)
 
 ## 🤔 Por que nesta ordem
 
@@ -26,6 +26,10 @@ flowchart LR
 | **A2** | Falar da rotina, do passado e de planos; resolver situações do dia a dia (loja, médico, viagem). |
 
 📝 A prova oficial é o **DELF** (A1, A2…). Fazer a prova é **opcional**. Em Portugal, o Institut français du Portugal coordena os exames e a Alliance Française de Lisboa aplica e prepara para a prova. Datas e locais: ver links no fim.
+
+## 🧭 Em que aula começar?
+
+Faça o [teste de nivelamento](nivelamento.md): 21 perguntas em 5 blocos (N1 → N3), 15–20 min, por chat. A regra de correção diz em que aula começar.
 
 ## 🗺️ Os 5 níveis
 

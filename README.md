@@ -8,6 +8,8 @@ Pouco todo dia vence muito de vez em quando. 🌱
 
 🌐 Prefere ler no navegador, com áudio tocando direto na página? Veja o [site do curso](docs/index.html) (pasta `docs/`).
 
+🧭 Já sabe um pouco de francês? Faça o [teste de nivelamento](nivelamento.md) (15–20 min, no chat) para descobrir em que aula começar.
+
 ## 🧠 Como o sistema funciona
 
 - O curso tem **5 níveis** (do A1 início ao A2).
@@ -22,7 +24,7 @@ Pouco todo dia vence muito de vez em quando. 🌱
 
 ```mermaid
 flowchart LR
-  EU(["📍 Você está aqui<br/>10 XP · Nível 1<br/>Aula 02"])
+  EU(["📍 Você está aqui<br/>15 XP · Nível 1<br/>Aula 02"])
 
   subgraph FR["🇫🇷 Francês"]
     direction LR
@@ -41,13 +43,13 @@ flowchart LR
 
 ## 📊 Painel
 
-Atualizado em: 2026-11-04 (dia 1: Aula 01 concluída 🎉).
+Atualizado em: 2026-11-04 (dia 1: Aula 01 concluída 🎉 + mini-quiz 100% 💯).
 
 | Assunto | Nível atual | Aula atual | Progresso | XP | Streak |
 | --- | --- | --- | --- | --- | --- |
-| 🇫🇷 [Francês](roadmap.md) | N1 · Primeiros passos | [Aula 02](aulas/aula-02.md) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1% (1/110) | 10 | 1 |
+| 🇫🇷 [Francês](roadmap.md) | N1 · Primeiros passos | [Aula 02](aulas/aula-02.md) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1% (1/110) | 15 | 1 |
 
-**Total:** 10 XP · Título: 🥐 Croissant Curioso (próximo: ☕ Freguesa do Café aos 100 XP, faltam 90) · Streak: 1 dia · Coringas: 🃏🃏
+**Total:** 15 XP · Título: 🥐 Croissant Curioso (próximo: ☕ Freguesa do Café aos 100 XP, faltam 85) · Streak: 1 dia · Coringas: 🃏🃏
 
 - **Progresso** = aulas feitas ÷ 110 aulas do curso inteiro.
 - Cada ⬛ = 10%.
@@ -108,6 +110,7 @@ Vale 5 XP e mantém o streak.
 | Arquivo | O que é |
 | --- | --- |
 | [roadmap.md](roadmap.md) | Os 5 níveis, os checkpoints e o caminho até o A2 |
+| [nivelamento.md](nivelamento.md) | Teste de nivelamento A1 → A2 (no chat) com gabarito e regra de onde começar |
 | [plano-de-estudo.md](plano-de-estudo.md) | A lista de aulas com ✅ |
 | [progresso.md](progresso.md) | O diário e as revisões |
 | [gamificacao.md](gamificacao.md) | XP, títulos, conquistas e streak |

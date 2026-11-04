@@ -107,10 +107,11 @@ Uma linha por sessão (ou por semana, no domingo).
 | Data | O quê | XP | Total | Conquistas |
 | --- | --- | --- | --- | --- |
 | 04/11/2026 | Aula 01 · Os sons do francês (completa, 30 min) | 10 | 10 | 👣 Premier Pas |
+| 04/11/2026 | 💯 Mini-quiz da Aula 01 com 100% | 5 | 15 | — (💯 Cabeça Fresca: 1/10) |
 
 ## 🏅 Recordes
 
 | Recorde | Valor | Data |
 | --- | --- | --- |
 | Melhor streak | 1 dia | 04/11/2026 |
-| Mais XP numa semana | 10 | semana de 02/11/2026 |
+| Mais XP numa semana | 15 | semana de 02/11/2026 |

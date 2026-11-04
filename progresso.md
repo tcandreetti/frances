@@ -10,7 +10,7 @@ Uma linha por sessão. Curto basta.
 
 | Data | Aula | Duração | XP | Dificuldade | Observações |
 | --- | --- | --- | --- | --- | --- |
-| 04/11/2026 | 01 · Os sons do francês | 30 min | 10 | 2 🙂 | Fez todos os exercícios, achou ótima. |
+| 04/11/2026 | 01 · Os sons do francês | 30 min | 10 + 5 💯 | 2 🙂 | Fez todos os exercícios, achou ótima. Mini-quiz 7/7 (100%) → +5 XP. 👄 Biquinho Francês ainda não: ver [pontos a treinar](#-pontos-de-pronúncia-a-treinar). |
 
 Exemplo de linha:
 
@@ -51,6 +51,18 @@ Pinte quando fizer **sem pensar** (✅).
 | nasais an / on / in | enfant, bon, vin | ⬜ |
 | R da garganta | merci, rouge | ⬜ |
 | ligação | les amis, vous avez | ⬜ |
+
+## 🎯 Pontos de pronúncia a treinar
+
+Anotados na Aula 01 (04/11/2026). A conquista 👄 **Biquinho Francês** ainda não veio. Vem com treino! 💪
+
+| Ponto | Exemplos | Dica | Status |
+| --- | --- | --- | --- |
+| **ou × u** | vous × vu | *ou* = "u" do português. *u* = biquinho de "u" e língua no "i". | ⬜ |
+| **ou × u** | roue × rue | Mesmo par: *roue* (roda) = "ru"; *rue* (rua) = biquinho. | ⬜ |
+| **R saindo como H** | rouge, merci, rue | O R francês raspa na garganta (como gargarejo leve), não é só um sopro de "h". | ⬜ |
+
+💡 Treino rápido no aquecimento: tocar os áudios *vous, vu, roue, rue, rouge* da [Aula 01](aulas/aula-01.md) e repetir em voz alta. Quando sair sem pensar, marque ✅ aqui e em [Sons dominados](#-sons-dominados).
 
 ## 🏁 Checkpoints
 

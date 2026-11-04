@@ -20,6 +20,7 @@ PAGINAS = [  # (origem, destino, rótulo no menu)
     ("plano-de-estudo.md", "plano-de-estudo.html", "📋 Plano de estudo"),
     ("progresso.md", "progresso.html", "📒 Progresso"),
     ("gamificacao.md", "gamificacao.html", "🎮 Gamificação"),
+    ("nivelamento.md", "nivelamento.html", "🧭 Nivelamento"),
 ]
 AULAS = sorted((RAIZ / "aulas").glob("aula-*.md"))
 
