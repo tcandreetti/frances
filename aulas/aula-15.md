@@ -54,7 +54,7 @@ Monte a sua com este modelo. Troque o que quiser.
 | Bonjour ! Je m'appelle Thaís. | Olá! Eu me chamo Thaís. |
 | Je suis brésilienne. Je suis née au Brésil. | Sou brasileira. Nasci no Brasil. |
 | J'habite au Portugal, à Lisbonne. | Moro em Portugal, em Lisboa. |
-| J'ai trente ans. *(troque pela sua idade)* | Tenho trinta anos. |
+| J'ai trente-cinq ans. | Tenho trinta e cinco anos. |
 | Je parle portugais, un peu anglais et un peu français. | Falo português, um pouco de inglês e um pouco de francês. |
 | J'aime la musique, le café et la plage. | Gosto de música, de café e da praia. |
 | Je n'aime pas le froid. | Não gosto do frio. |

@@ -16,7 +16,7 @@ O [nivelamento](../nivelamento.md) mostrou que você já sabe isto. Leia em 2 mi
 
 | Aula | O que cobria | Lembrete de 1 linha | Você |
 | --- | --- | --- | --- |
-| 07 · Revisão 1 | Revisar as aulas 01–06 e montar o Anki | Anki é opcional. Um caderno com **palavra + artigo** também serve. | ✅ |
+| 07 · Revisão 1 | Revisar as aulas 01–06 e montar o Anki | Monte o Anki com o [guia e o deck do curso](../anki.md) (10 min). Um caderno com **palavra + artigo** também serve. | ➡️ |
 | 08 · Verbos -er | *parler, habiter, aimer* | je parl**e**, tu parl**es**, il parl**e**, nous parl**ons**, vous parl**ez**, ils parl**ent** (-e, -es, -ent: mudos!) | ✅ (cuidado com o **-s** do *tu*) |
 | 09 · Perguntas | entonação, *est-ce que*, *qui, où, comment, quand* | *Où est-ce que tu habites ?* | ✅ |
 | 10 · Nacionalidades | *-ien/-ienne, -ais/-aise* · *c'est* × *il/elle est* | *Elle est brésilienne. C'est mon amie.* | 👀 o teste não cobriu: leia o lembrete |

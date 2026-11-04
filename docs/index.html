@@ -24,6 +24,7 @@
 <li><a href="progresso.html">📒 Progresso</a></li>
 <li><a href="gamificacao.html">🎮 Gamificação</a></li>
 <li><a href="nivelamento.html">🧭 Nivelamento</a></li>
+<li><a href="anki.html">🃏 Anki</a></li>
 <li class="sec">📚 Aulas</li>
 <li><a href="aulas/aula-01.html">Aula 01 · Os sons do francês</a></li>
 <li><a href="aulas/aula-02.html">Aula 02 · Cumprimentos e apresentar-se</a></li>
@@ -47,6 +48,7 @@
 <p><strong>Regra de ouro:</strong> 1 aula por dia de estudo. 30 minutos. Só isso.</p>
 <p>Pouco todo dia vence muito de vez em quando. 🌱</p>
 <p>🌐 Prefere ler no navegador, com áudio tocando direto na página? Veja o <a href="index.html">site do curso</a> (pasta <code>docs/</code>).</p>
+<p>🃏 Cartões de memória com áudio no celular: veja o <a href="anki.html">guia do Anki</a> e baixe o deck do curso.</p>
 <p>🧭 Já sabe um pouco de francês? Faça o <a href="nivelamento.html">teste de nivelamento</a> (15–20 min, no chat) para descobrir em que aula começar.</p>
 <h2 id="-como-o-sistema-funciona">🧠 Como o sistema funciona</h2>
 <ul>
@@ -268,6 +270,10 @@
 <td>Os 5 níveis, os checkpoints e o caminho até o A2</td>
 </tr>
 <tr>
+<td><a href="anki.html">anki.md</a></td>
+<td>Guia do Anki no Android + o deck do curso (.apkg) com áudio</td>
+</tr>
+<tr>
 <td><a href="nivelamento.html">nivelamento.md</a></td>
 <td>Teste de nivelamento A1 → A2 (no chat) com gabarito e regra de onde começar</td>
 </tr>
@@ -310,6 +316,7 @@
 <h2 id="-para-quem-mantém-o-curso">🛠️ Para quem mantém o curso</h2>
 <ul>
 <li><strong>Áudios:</strong> <code>python3 scripts/gerar_audios.py</code> (usa <code>edge-tts</code>, voz <code>fr-FR-DeniseNeural</code>, velocidade -20%). As frases ficam em <code>scripts/audios.tsv</code>.</li>
+<li><strong>Anki:</strong> <code>python3 scripts/gerar_anki.py</code> lê <code>scripts/anki_vocab.tsv</code> e gera <code>docs/anki/frances-thais.apkg</code> (precisa de <code>genanki</code>). Ver <a href="anki.html">anki.md</a>.</li>
 <li><strong>Site:</strong> <code>python3 scripts/build_site.py</code> gera o <code>docs/</code> a partir dos <code>.md</code> (precisa de <code>pip install markdown</code>). O resultado já vem pronto no repositório: o GitHub Pages <strong>não precisa</strong> de build.</li>
 <li><strong>Testar o site:</strong> <code>python3 -m http.server -d docs 8000</code> e abra <a href="http://localhost:8000">http://localhost:8000</a>.</li>
 </ul>

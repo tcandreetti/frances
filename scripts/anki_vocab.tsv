@@ -1,0 +1,261 @@
+# aula	francês	português	áudio (vazio = usa o mp3 de scripts/audios.tsv com o mesmo texto, ou gera com edge-tts)
+aula-01	le croissant	o croissant	
+aula-01	le bouquet	o buquê	
+aula-01	petit	pequeno	
+aula-01	beaucoup	muito	
+aula-01	français	francês	
+aula-01	neuf	nove · novo	
+aula-01	avril	abril	
+aula-01	vous	vocês · o senhor / a senhora	
+aula-01	vu	visto	
+aula-01	tout	tudo	
+aula-01	tu	tu	
+aula-01	la roue	a roda	
+aula-01	la rue	a rua	
+aula-01	moi	eu (forma forte: moi, c'est…)	
+aula-01	la maison	a casa	
+aula-01	bleu	azul	
+aula-01	le chat	o gato	
+aula-01	la montagne	a montanha	
+aula-01	l'enfant	a criança	
+aula-01	la France	a França	
+aula-01	non	não	
+aula-01	le vin	o vinho	
+aula-01	le pain	o pão	
+aula-01	merci	obrigada / obrigado	
+aula-01	rouge	vermelho	
+aula-01	les amis	os amigos	
+aula-01	le chocolat	o chocolate	
+aula-02	Bonjour !	Bom dia! / Olá!	
+aula-02	Bonsoir !	Boa noite! (ao chegar)	
+aula-02	Salut !	Oi! / Tchau! (amigos)	
+aula-02	Au revoir !	Até logo! / Tchau!	
+aula-02	À bientôt !	Até breve!	
+aula-02	Bonne journée !	Tenha um bom dia!	
+aula-02	Merci beaucoup !	Muito obrigada!	
+aula-02	S'il vous plaît.	Por favor. (formal)	
+aula-02	S'il te plaît.	Por favor. (informal)	
+aula-02	Excusez-moi.	Com licença. / Desculpe.	
+aula-02	Pardon !	Perdão! / Desculpa!	
+aula-02	De rien !	De nada!	
+aula-02	Ça va ?	Tudo bem?	
+aula-02	Ça va bien, et toi ?	Tudo bem, e tu?	
+aula-02	Comment allez-vous ?	Como vai o senhor / a senhora?	
+aula-02	Très bien, merci. Et vous ?	Muito bem, obrigada. E o senhor?	
+aula-02	Je m'appelle Thaís.	Eu me chamo Thaís.	
+aula-02	Je suis brésilienne.	Sou brasileira.	
+aula-02	Enchantée !	Muito prazer! (mulher falando)	
+aula-02	Comment tu t'appelles ?	Como tu te chamas?	
+aula-02	Comment vous appelez-vous ?	Como o senhor se chama?	
+aula-03	le café	o café	
+aula-03	la plage	a praia	
+aula-03	l'eau	a água	
+aula-03	l'hôtel	o hotel	
+aula-03	un croissant	um croissant	
+aula-03	une tarte	uma torta	
+aula-03	des croissants	uns croissants	
+aula-03	la mer	o mar (feminino em francês!)	
+aula-03	la dent	o dente (feminino!)	
+aula-03	la fin	o fim (feminino!)	
+aula-03	le voyage	a viagem (masculino!)	
+aula-03	le message	a mensagem (masculino!)	
+aula-03	le garage	a garagem (masculino!)	
+aula-03	le tram	o bonde · o elétrico 🇵🇹	
+aula-03	le métro	o metrô	
+aula-03	la pharmacie	a farmácia	
+aula-03	la boulangerie	a padaria	
+aula-03	l'église	a igreja	
+aula-03	l'aéroport	o aeroporto	
+aula-03	Un café et une tarte, s'il vous plaît.	Um café e uma torta, por favor.	
+aula-04	je suis	eu sou / estou	
+aula-04	tu es	tu és / estás	
+aula-04	il est	ele é / está	
+aula-04	nous sommes	nós somos / estamos	
+aula-04	vous êtes	vocês são · o senhor é	
+aula-04	ils sont	eles são / estão	
+aula-04	j'ai	eu tenho	
+aula-04	tu as	tu tens	
+aula-04	il a	ele tem	
+aula-04	nous avons	nós temos	
+aula-04	vous avez	vocês têm · o senhor tem	
+aula-04	ils ont	eles têm	
+aula-04	Elle est fatiguée.	Ela está cansada.	
+aula-04	J'ai un chat.	Tenho um gato.	
+aula-04	J'ai faim.	Estou com fome.	
+aula-04	J'ai soif.	Estou com sede.	
+aula-04	J'ai froid.	Estou com frio.	
+aula-04	J'ai chaud.	Estou com calor.	
+aula-04	J'ai peur.	Tenho medo.	
+aula-04	Je ne suis pas française.	Não sou francesa.	
+aula-04	Je n'ai pas faim.	Não estou com fome.	
+aula-05	zéro	0	
+aula-05	un	1	
+aula-05	deux	2	
+aula-05	trois	3	
+aula-05	quatre	4	
+aula-05	cinq	5	
+aula-05	six	6	
+aula-05	sept	7	
+aula-05	huit	8	
+aula-05	dix	10	
+aula-05	onze	11	
+aula-05	douze	12	
+aula-05	treize	13	
+aula-05	quatorze	14	
+aula-05	quinze	15	
+aula-05	seize	16	
+aula-05	dix-sept	17	
+aula-05	dix-huit	18	
+aula-05	dix-neuf	19	
+aula-05	vingt	20	
+aula-05	vingt et un	21	
+aula-05	trente	30	
+aula-05	quarante	40	
+aula-05	cinquante	50	
+aula-05	soixante	60	
+aula-05	soixante-dix	70	
+aula-05	soixante et onze	71	
+aula-05	quatre-vingts	80	
+aula-05	quatre-vingt-dix	90	
+aula-05	cent	100	
+aula-05	Tu as quel âge ?	Quantos anos tu tens?	
+aula-05	C'est combien ?	Quanto custa?	
+aula-05	Ça fait cinq euros.	Fica cinco euros.	
+aula-05	Deux euros cinquante.	Dois euros e cinquenta.	
+aula-06	Je vais à Paris.	Vou a Paris.	
+aula-06	Je viens du Brésil.	Venho do Brasil.	
+aula-06	Je vais au cinéma.	Vou ao cinema.	
+aula-06	J'habite à Lisbonne, au Portugal.	Moro em Lisboa, em Portugal.	
+aula-06	Je suis née au Brésil.	Nasci no Brasil.	
+aula-06	Je voyage en France.	Viajo pela França.	
+aula-06	Il habite aux États-Unis.	Ele mora nos Estados Unidos.	
+aula-06	Le chat est dans la boîte.	O gato está dentro da caixa.	
+aula-06	Le café est sur la table.	O café está em cima da mesa.	
+aula-06	Le chien est sous le lit.	O cachorro está debaixo da cama.	
+aula-06	Je t'attends devant l'école.	Te espero na frente da escola.	
+aula-06	Le jardin est derrière la maison.	O jardim fica atrás da casa.	
+aula-06	Je dîne chez ma mère.	Janto na casa da minha mãe.	
+aula-06	Je vais chez le médecin.	Vou ao médico.	
+aula-06	Un café avec du lait.	Um café com leite.	
+aula-06	Un thé sans sucre.	Um chá sem açúcar.	
+aula-06	C'est pour toi.	É para ti.	
+aula-13	l'été	o verão	
+aula-13	le thé	o chá	
+aula-13	l'école	a escola	
+aula-13	née	nascida	
+aula-13	la fête	a festa	
+aula-13	la tête	a cabeça	
+aula-13	très	muito	
+aula-13	demain	amanhã	
+aula-13	madame	senhora	
+aula-13	elle	ela	
+aula-13	j'habite	eu moro	
+aula-13	je n'aime pas	eu não gosto	
+aula-13	l'amie	a amiga	
+aula-13	dessous	embaixo	
+aula-13	dessus	em cima	
+aula-13	Tu as vu la rue ?	Viste a rua?	
+aula-13	Vous avez vu la roue ?	Vocês viram a roda?	
+aula-13	Trois gros rats gris.	Três ratos grandes cinzentos. (trava-língua)	
+aula-14	Je ne sais pas.	Não sei.	
+aula-14	Il y a un café ?	Tem um café?	
+aula-14	Qu'est-ce que c'est ?	O que é isso?	
+aula-14	Et avec ceci ?	Mais alguma coisa? (na loja)	
+aula-14	Il n'y a plus de pains au chocolat.	Acabaram os pains au chocolat.	
+aula-14	un chausson aux pommes	um folhado de maçã	
+aula-14	Ça fait douze euros.	Fica doze euros.	
+aula-14	Vous prenez la carte ?	Aceita cartão?	
+aula-14	Je prends le métro.	Eu pego o metrô.	
+aula-14	Il y a un café près d'ici ?	Tem um café perto daqui?	
+aula-14	Tu fais quoi samedi ?	O que tu fazes no sábado?	
+aula-14	À samedi !	Até sábado!	
+aula-15	J'ai trente-cinq ans.	Tenho trinta e cinco anos.	
+aula-15	Je parle portugais, un peu anglais et un peu français.	Falo português, um pouco de inglês e um pouco de francês.	
+aula-15	J'aime la musique.	Gosto de música.	
+aula-15	Je n'aime pas le froid.	Não gosto do frio.	
+aula-15	Parfois, je prends le train.	Às vezes, pego o trem.	
+aula-15	Qu'est-ce que vous prenez ?	O que vai querer? (no café)	
+aula-15	Vous avez des gâteaux ?	Vocês têm bolos?	
+aula-15	une tarte au citron	uma torta de limão	
+aula-15	un gâteau au chocolat	um bolo de chocolate	
+aula-15	D'accord.	Está bem. / Combinado.	
+aula-16	Vous désirez ?	O que deseja?	
+aula-16	un café crème	um café com leite	
+aula-16	un expresso	um expresso	
+aula-16	une bouteille d'eau	uma garrafa de água	
+aula-16	Vous êtes en vacances ?	Está de férias?	
+aula-16	Je suis à Paris pour trois jours.	Estou em Paris por três dias.	
+aula-16	L'addition, s'il vous plaît.	A conta, por favor.	
+aula-16	Merci à vous.	Obrigado a você.	
+aula-17	le père	o pai	
+aula-17	la mère	a mãe	
+aula-17	les parents	os pais	
+aula-17	le frère	o irmão	
+aula-17	la sœur	a irmã	
+aula-17	le mari	o marido	
+aula-17	la femme	a mulher · a esposa	
+aula-17	le fils	o filho	
+aula-17	la fille	a filha	
+aula-17	le grand-père	o avô	
+aula-17	la grand-mère	a avó	
+aula-17	l'oncle	o tio	
+aula-17	la tante	a tia	
+aula-17	le cousin	o primo	
+aula-17	la cousine	a prima	
+aula-17	mon amie	a minha amiga	
+aula-17	mon école	a minha escola	
+aula-17	ton histoire	a tua história	
+aula-17	mon adresse	o meu endereço	
+aula-17	C'est ma sœur.	É a minha irmã.	
+aula-17	Ce sont mes grands-parents.	São os meus avós.	
+aula-17	Qui est-ce ?	Quem é?	
+aula-17	avec moi	comigo	
+aula-18	je vais	eu vou	
+aula-18	tu vas	tu vais	
+aula-18	il va	ele vai	
+aula-18	nous allons	nós vamos	
+aula-18	vous allez	vocês vão · o senhor vai	
+aula-18	ils vont	eles vão	
+aula-18	je prends	eu pego / tomo	
+aula-18	tu prends	tu pegas	
+aula-18	il prend	ele pega	
+aula-18	nous prenons	nós pegamos	
+aula-18	vous prenez	vocês pegam · o senhor pega	
+aula-18	ils prennent	eles pegam	
+aula-18	J'apprends le français.	Estou aprendendo francês.	
+aula-18	Je ne comprends pas.	Não entendo.	
+aula-18	Je vais au marché.	Vou ao mercado.	
+aula-18	Je vais à l'aéroport.	Vou ao aeroporto.	
+aula-18	Je vais à Lyon en train.	Vou a Lyon de trem.	
+aula-18	Je vais à la Ribeira à pied.	Vou à Ribeira a pé.	
+aula-18	Pour aller à la gare, s'il vous plaît ?	Para ir à estação, por favor?	
+aula-18	jusqu'à	até	
+aula-18	Bon séjour !	Boa estadia!	
+aula-19	je fais	eu faço	
+aula-19	tu fais	tu fazes	
+aula-19	il fait	ele faz	
+aula-19	nous faisons	nós fazemos	
+aula-19	vous faites	vocês fazem · o senhor faz	
+aula-19	ils font	eles fazem	
+aula-19	Je fais du yoga.	Faço yoga.	
+aula-19	Je fais les courses.	Faço as compras.	
+aula-19	Je fais la cuisine.	Cozinho.	
+aula-19	On fait une promenade ?	Vamos dar um passeio?	
+aula-19	Quel temps fait-il ?	Como está o tempo?	
+aula-19	Il fait beau.	Está fazendo tempo bom.	
+aula-19	Il fait froid.	Está frio.	
+aula-19	Il fait chaud.	Está calor.	
+aula-19	Il pleut.	Está chovendo.	
+aula-19	Je n'aime pas la pluie.	Não gosto da chuva.	
+aula-19	Qu'est-ce que tu fais ?	O que tu fazes?	
+aula-19	S'il fait beau, on sort.	Se fizer bom tempo, a gente sai.	
+aula-19	J'adore marcher.	Adoro caminhar.	
+aula-20	tous les jours	todos os dias	
+aula-20	le soir	à noite (o fim do dia)	
+aula-20	aujourd'hui	hoje	
+aula-20	le centre-ville	o centro da cidade	
+aula-20	prendre des vacances	tirar férias	
+aula-20	Chère Camille,	Querida Camille,	
+aula-20	Bisous !	Beijos!	
+aula-20	chez mes parents	na casa dos meus pais	
+aula-20	Tu rentres quand ?	Quando tu voltas?	

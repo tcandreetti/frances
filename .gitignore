@@ -13,3 +13,5 @@ Thumbs.db
 # Rascunhos locais
 *.tmp
 tmp/
+scripts/.anki_tmp/
+scripts/.anki_preservado/

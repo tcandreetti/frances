@@ -8,6 +8,8 @@ Pouco todo dia vence muito de vez em quando. 🌱
 
 🌐 Prefere ler no navegador, com áudio tocando direto na página? Veja o [site do curso](docs/index.html) (pasta `docs/`).
 
+🃏 Cartões de memória com áudio no celular: veja o [guia do Anki](anki.md) e baixe o deck do curso.
+
 🧭 Já sabe um pouco de francês? Faça o [teste de nivelamento](nivelamento.md) (15–20 min, no chat) para descobrir em que aula começar.
 
 ## 🧠 Como o sistema funciona
@@ -120,6 +122,7 @@ Vale 5 XP e mantém o streak.
 | Arquivo | O que é |
 | --- | --- |
 | [roadmap.md](roadmap.md) | Os 5 níveis, os checkpoints e o caminho até o A2 |
+| [anki.md](anki.md) | Guia do Anki no Android + o deck do curso (.apkg) com áudio |
 | [nivelamento.md](nivelamento.md) | Teste de nivelamento A1 → A2 (no chat) com gabarito e regra de onde começar |
 | [plano-de-estudo.md](plano-de-estudo.md) | A lista de aulas com ✅ |
 | [progresso.md](progresso.md) | O diário e as revisões |
@@ -141,5 +144,6 @@ Vale 5 XP e mantém o streak.
 ## 🛠️ Para quem mantém o curso
 
 - **Áudios:** `python3 scripts/gerar_audios.py` (usa `edge-tts`, voz `fr-FR-DeniseNeural`, velocidade -20%). As frases ficam em `scripts/audios.tsv`.
+- **Anki:** `python3 scripts/gerar_anki.py` lê `scripts/anki_vocab.tsv` e gera `docs/anki/frances-thais.apkg` (precisa de `genanki`). Ver [anki.md](anki.md).
 - **Site:** `python3 scripts/build_site.py` gera o `docs/` a partir dos `.md` (precisa de `pip install markdown`). O resultado já vem pronto no repositório: o GitHub Pages **não precisa** de build.
 - **Testar o site:** `python3 -m http.server -d docs 8000` e abra <http://localhost:8000>.

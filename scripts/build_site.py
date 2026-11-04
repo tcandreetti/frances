@@ -21,6 +21,7 @@ PAGINAS = [  # (origem, destino, rótulo no menu)
     ("progresso.md", "progresso.html", "📒 Progresso"),
     ("gamificacao.md", "gamificacao.html", "🎮 Gamificação"),
     ("nivelamento.md", "nivelamento.html", "🧭 Nivelamento"),
+    ("anki.md", "anki.html", "🃏 Anki"),
 ]
 AULAS = sorted((RAIZ / "aulas").glob("aula-*.md"))
 
@@ -118,9 +119,17 @@ def pagina(md_path, dest):
 
 
 def main():
+    # o deck Anki (docs/anki/, gerado por scripts/gerar_anki.py) é preservado
+    anki_tmp = RAIZ / "scripts" / ".anki_preservado"
+    if (DOCS / "anki").exists():
+        if anki_tmp.exists():
+            shutil.rmtree(anki_tmp)
+        shutil.move(str(DOCS / "anki"), str(anki_tmp))
     if DOCS.exists():
         shutil.rmtree(DOCS)
     DOCS.mkdir()
+    if anki_tmp.exists():
+        shutil.move(str(anki_tmp), str(DOCS / "anki"))
     (DOCS / ".nojekyll").write_text("")
     shutil.copy(SITE / "style.css", DOCS / "style.css")
     shutil.copy(SITE / "app.js", DOCS / "app.js")
