@@ -110,10 +110,13 @@ Uma linha por sessão (ou por semana, no domingo).
 | 04/11/2026 | 💯 Mini-quiz da Aula 01 com 100% | 5 | 15 | — (💯 Cabeça Fresca: 1/10) |
 | 04/11/2026 | Aula 02 · Cumprimentos e apresentar-se (completa, 30 min) | 10 | 25 | — (👋 Bonjour ! pendente: apresentar-se em voz alta, sem ler) |
 | 04/11/2026 | 💯 Mini-quiz da Aula 02 com 100% | 5 | 30 | — (💯 Cabeça Fresca: 2/10) |
+| 05/11/2026 | Aula 13 · Sons II: é, è, ê e o e mudo (completa, 30 min) | 10 | 40 | — (👄 Biquinho Francês pendente: confirmar *tu×tout* na próxima) |
+| 05/11/2026 | 🧠 Revisão espaçada Aula 01 (+1 dia, no aquecimento) | 2 | 42 | — |
+| 05/11/2026 | 🧠 Revisão espaçada Aula 02 (+1 dia, no aquecimento) | 2 | 44 | — |
 
 ## 🏅 Recordes
 
 | Recorde | Valor | Data |
 | --- | --- | --- |
-| Melhor streak | 1 dia | 04/11/2026 |
-| Mais XP numa semana | 30 | semana de 02/11/2026 |
+| Melhor streak | 2 dias | 05/11/2026 |
+| Mais XP numa semana | 44 | semana de 02/11/2026 |

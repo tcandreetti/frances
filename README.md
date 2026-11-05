@@ -26,7 +26,7 @@ Pouco todo dia vence muito de vez em quando. 🌱
 
 ```mermaid
 flowchart LR
-  EU(["📍 Você está aqui<br/>30 XP · Nível 1<br/>Aula 13"])
+  EU(["📍 Você está aqui<br/>44 XP · Nível 1<br/>Aula 14"])
 
   subgraph FR["🇫🇷 Francês"]
     direction LR
@@ -45,13 +45,13 @@ flowchart LR
 
 ## 📊 Painel
 
-Atualizado em: 2026-11-04 (dia 1: Aulas 01 e 02 concluídas 🎉, os dois mini-quizzes com 100% 💯, [nivelamento](nivelamento.md) feito: começa na Aula 13 🧭).
+Atualizado em: 2026-11-05 (dia 2: Aula 13 concluída 🎉, revisões +1 das Aulas 01/02 feitas no aquecimento 🧠; ditado 9/10; quiz de ouvido sem bônus 💯; 👄 Biquinho Francês ainda pendente).
 
 | Assunto | Nível atual | Aula atual | Progresso | XP | Streak |
 | --- | --- | --- | --- | --- | --- |
-| 🇫🇷 [Francês](roadmap.md) | N1 · Primeiros passos | [Aula 13](aulas/aula-13.md) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2% (2/110) | 30 | 1 |
+| 🇫🇷 [Francês](roadmap.md) | N1 · Primeiros passos | [Aula 14](aulas/aula-14.md) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3% (3/110) | 44 | 2 |
 
-**Total:** 30 XP · Título: 🥐 Croissant Curioso (próximo: ☕ Freguesa do Café aos 100 XP, faltam 70) · Streak: 1 dia · Coringas: 🃏🃏
+**Total:** 44 XP · Título: 🥐 Croissant Curioso (próximo: ☕ Freguesa do Café aos 100 XP, faltam 56) · Streak: 2 dias · Coringas: 🃏🃏
 
 - **Progresso** = aulas feitas ÷ 110 aulas do curso inteiro.
 - Cada ⬛ = 10%.
@@ -69,8 +69,8 @@ Atualizado em: 2026-11-04 (dia 1: Aulas 01 e 02 concluídas 🎉, os dois mini-q
 | [05](aulas/aula-05.md) | 🔢 Números de 0 a 100 | ⏭️ pulada (consulta) |
 | [06](aulas/aula-06.md) | 🧭 Preposições do dia a dia | ⏭️ pulada (consulta) |
 | 07–12 | Revisão 1, verbos -er, perguntas, nacionalidades, café, Revisão 2 | ⏭️ puladas (resumo na [Aula 13](aulas/aula-13.md#-ponte-o-que-você-pulou-aulas-0712)) |
-| [13](aulas/aula-13.md) | 🎵 Sons II: é, è, ê e o e mudo | 👉 próxima |
-| [14](aulas/aula-14.md) | 👂 Ouvir de verdade | ⬜ |
+| [13](aulas/aula-13.md) | 🎵 Sons II: é, è, ê e o e mudo | ✅ |
+| [14](aulas/aula-14.md) | 👂 Ouvir de verdade | 👉 próxima |
 | [15](aulas/aula-15.md) | 🔁 Revisão 3 + ensaio do checkpoint | ⬜ |
 | [16](aulas/aula-16.md) | 🏁 Checkpoint N1 | ⬜ |
 | [17](aulas/aula-17.md) | 👨‍👩‍👧 A família e os possessivos I (mon, ma, mes) | ⬜ |

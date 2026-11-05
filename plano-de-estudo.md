@@ -124,7 +124,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 13 · Sons II: é, è, ê e o e mudo
 
-- [ ] Concluída · 10 XP · 👉 **próxima aula**
+- [x] Concluída · 10 XP · ✅ 05/11/2026
 - 🎯 **Objetivo:** ler acentos com segurança.
 - ⏱️ **5 min:** 3 perguntas dos pontos a revisar + ponte das aulas 07–12.
 - ⏱️ **20 min:** é (fechado) · è / ê (aberto) · e mudo · ditado de 10 palavras · treino de **vous × vu, roue × rue** e do **R**.
@@ -133,7 +133,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 14 · Ouvir de verdade 👂
 
-- [ ] Concluída · 10 XP
+- [ ] Concluída · 10 XP · 👉 **próxima aula**
 - 🎯 **Objetivo:** entender um diálogo lento sem ler.
 - ⏱️ **5 min:** 3 perguntas dos pontos a revisar.
 - ⏱️ **20 min:** 2 diálogos lentos com áudio (padaria em Paris, convite no Porto) · 1 vídeo A1 da TV5Monde · ouvir 3× · anotar o que entendeu.
