@@ -133,7 +133,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 14 · Ouvir de verdade 👂
 
-- [ ] Concluída · 10 XP · 👉 **próxima aula**
+- [x] Concluída · 10 XP · ✅ 09/11/2026 (📺 vídeo TV5Monde pendente)
 - 🎯 **Objetivo:** entender um diálogo lento sem ler.
 - ⏱️ **5 min:** 3 perguntas dos pontos a revisar.
 - ⏱️ **20 min:** 2 diálogos lentos com áudio (padaria em Paris, convite no Porto) · 1 vídeo A1 da TV5Monde · ouvir 3× · anotar o que entendeu.
@@ -142,7 +142,7 @@ Marque `[x]` quando concluir. 🎉
 
 #### Aula 15 · 🔁 Revisão 3 (aulas 13–14 + ensaio)
 
-- [ ] Concluída · 15 XP
+- [ ] Concluída · 15 XP · 👉 **próxima aula**
 - 🎯 **Objetivo:** ensaio do checkpoint.
 - ⏱️ **5 min:** 3 perguntas dos pontos a revisar + apresentação em voz alta.
 - ⏱️ **20 min:** simulado do checkpoint · revisar o que falhou.

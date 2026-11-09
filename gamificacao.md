@@ -113,6 +113,11 @@ Uma linha por sessão (ou por semana, no domingo).
 | 05/11/2026 | Aula 13 · Sons II: é, è, ê e o e mudo (completa, 30 min) | 10 | 40 | — (👄 Biquinho Francês pendente: confirmar *tu×tout* na próxima) |
 | 05/11/2026 | 🧠 Revisão espaçada Aula 01 (+1 dia, no aquecimento) | 2 | 42 | — |
 | 05/11/2026 | 🧠 Revisão espaçada Aula 02 (+1 dia, no aquecimento) | 2 | 44 | — |
+| 06/11/2026 | 🃏 Coringa (dia sem estudo) | 0 | 44 | — |
+| 07/11/2026 | 🃏 Coringa (dia sem estudo) | 0 | 44 | — |
+| 08/11/2026 | Streak quebrou (sem coringas). XP fica! 🤗 | 0 | 44 | — |
+| 09/11/2026 | 🦅 Voltar depois de uma pausa | 10 | 54 | — |
+| 09/11/2026 | Aula 14 · Ouvir de verdade (Ex. B 3/4, quiz 4/5; vídeo pendente) | 10 | 64 | — |
 
 ## 🏅 Recordes
 
